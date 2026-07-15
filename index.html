@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download NYC UNO</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- FontAwesome for iOS and Android Logos -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- Custom Tailwind Configuration for exact colors -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        nycuno: {
+                            gold: '#FFD700', // Adjusted to match the glowing yellow/gold in your logo
+                            dark: '#000000'
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-nycuno-dark text-white min-h-screen flex flex-col items-center justify-center p-6 font-sans antialiased">
+
+    <!-- Logo -->
+    <img src="image_ed942d.png" alt="NYC UNO Logo" class="w-48 h-auto mb-8 shadow-lg">
+
+    <!-- Header -->
+    <h1 class="text-2xl font-bold mb-2 tracking-wide text-center">Get the NYC UNO App</h1>
+
+    <!-- Countdown Container -->
+    <div id="countdown-container" class="hidden flex-col items-center mb-8 text-center">
+        <p class="text-gray-400 text-sm">
+            Redirecting to <span id="os-name" class="text-nycuno-gold font-semibold"></span> in 
+            <span id="time-left" class="text-nycuno-gold font-bold text-lg mx-1">5</span> seconds...
+        </p>
+        <a id="manual-redirect" href="#" class="mt-2 text-xs text-gray-500 underline hover:text-nycuno-gold transition">Click here if not redirected</a>
+    </div>
+
+    <!-- Store Links -->
+    <div class="flex flex-col sm:flex-row gap-4 w-full max-w-sm mt-4">
+        <!-- iOS App Store Button -->
+        <a href="YOUR_IOS_APP_LINK_HERE" id="btn-ios" class="flex items-center justify-center w-full px-6 py-3 border-2 border-nycuno-gold text-nycuno-gold rounded-lg hover:bg-nycuno-gold hover:text-nycuno-dark transition duration-300 font-semibold shadow-[0_0_10px_rgba(255,215,0,0.2)]">
+            <i class="fab fa-apple text-2xl mr-3"></i>
+            <span>App Store</span>
+        </a>
+
+        <!-- Android Google Play Button -->
+        <a href="YOUR_ANDROID_APP_LINK_HERE" id="btn-android" class="flex items-center justify-center w-full px-6 py-3 border-2 border-nycuno-gold text-nycuno-gold rounded-lg hover:bg-nycuno-gold hover:text-nycuno-dark transition duration-300 font-semibold shadow-[0_0_10px_rgba(255,215,0,0.2)]">
+            <i class="fab fa-google-play text-xl mr-3"></i>
+            <span>Google Play</span>
+        </a>
+    </div>
+
+    <!-- Script for OS Detection and Countdown -->
+    <script>
+        // REPLACE THESE WITH YOUR ACTUAL STORE LINKS
+        const iosLink = "YOUR_IOS_APP_LINK_HERE";
+        const androidLink = "YOUR_ANDROID_APP_LINK_HERE";
+
+        function getMobileOperatingSystem() {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+            // iOS detection
+            if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+                return "iOS";
+            }
+            // Android detection
+            if (/android/i.test(userAgent)) {
+                return "Android";
+            }
+            
+            return "unknown";
+        }
+
+        window.onload = function() {
+            const os = getMobileOperatingSystem();
+            const countdownContainer = document.getElementById('countdown-container');
+            const osNameEl = document.getElementById('os-name');
+            const timeLeftEl = document.getElementById('time-left');
+            const manualRedirectEl = document.getElementById('manual-redirect');
+            
+            let targetUrl = "";
+
+            // Determine target based on OS
+            if (os === "iOS") {
+                targetUrl = iosLink;
+                osNameEl.innerText = "App Store";
+            } else if (os === "Android") {
+                targetUrl = androidLink;
+                osNameEl.innerText = "Google Play";
+            }
+
+            // Trigger countdown and redirect if OS is detected
+            if (targetUrl) {
+                countdownContainer.classList.remove('hidden');
+                countdownContainer.classList.add('flex');
+                manualRedirectEl.href = targetUrl;
+                
+                let timeLeft = 5;
+                const countdownInterval = setInterval(() => {
+                    timeLeft--;
+                    timeLeftEl.innerText = timeLeft;
+                    
+                    if (timeLeft <= 0) {
+                        clearInterval(countdownInterval);
+                        window.location.href = targetUrl;
+                    }
+                }, 1000);
+            }
+        };
+    </script>
+</body>
+</html>
