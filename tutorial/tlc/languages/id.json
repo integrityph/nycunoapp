@@ -1,0 +1,29 @@
+{
+  "id": {
+    "meta.title": "Panduan Mengunggah Lisensi T&LC",
+    "header.breadcrumb": "Tutorial / Lisensi T&LC",
+    "page.eyebrow": "Panduan pendaftaran",
+    "page.title": "Cara mengunggah Lisensi T&LC Anda",
+    "page.intro": "Mengalami masalah dengan langkah Lisensi T&LC di aplikasi? Ikuti langkah-langkah di bawah ini — setiap penanda bernomor pada tangkapan layar menunjukkan dengan tepat apa yang harus diketuk atau diisi.",
+    "step1.title": "Buka bagian Document",
+    "step1.body": "Di aplikasi pendaftaran, buka bagian <strong class=\"text-ink font-medium\">Document</strong>. Anda akan melihat kartu berlabel <strong class=\"text-ink font-medium\">T&LC License</strong>.",
+    "step2.title": "Ketuk T&LC License dan isi detailnya",
+    "step2.body": "Ketuk kartu <strong class=\"text-ink font-medium\">T&LC License</strong> untuk membuka formulir, lalu ikuti penanda bernomor di bawah secara berurutan.",
+    "step3.title": "Cari detail pada lisensi Anda",
+    "step3.body": "Tidak yakin harus mencari di mana? Penanda <strong class=\"text-ink font-medium\">3</strong> dan <strong class=\"text-ink font-medium\">4</strong> di bawah sesuai dengan nomor yang sama pada formulir di langkah 2.",
+    "step4.title": "Simpan",
+    "step4.body": "Setelah semuanya sesuai, ketuk <strong class=\"text-ink font-medium\">Save</strong> (penanda 5 pada langkah 2). Langkah T&LC License Anda sekarang sudah selesai.",
+    "legend.tap": "Ketuk kartu ini untuk membuka formulir T&LC License.",
+    "legend.upload": "Ketuk di sini untuk mengunggah foto lisensi Anda yang jelas.",
+    "legend.docnum": "Ketik nomor lisensi persis seperti yang tercetak pada kartu Anda.",
+    "legend.expiry": "Pilih tanggal kedaluwarsa yang tertera pada kartu Anda.",
+    "legend.save": "Ketuk Save setelah semuanya terlihat benar.",
+    "legend.cardnum": "Nomor lisensi — masukkan ini ke kolom Document Number.",
+    "legend.cardexpiry": "Tanggal kedaluwarsa — pilih tanggal yang sama pada kolom Expiry Date.",
+    "tips.title": "Sebelum menyimpan",
+    "tips.item1": "Pastikan foto lisensi jelas, memiliki pencahayaan yang baik, dan tidak terpotong.",
+    "tips.item2": "Periksa bahwa lisensi Anda belum kedaluwarsa — jika sudah kedaluwarsa, Anda harus memperbaruinya terlebih dahulu.",
+    "tips.item3": "Nomor dokumen yang Anda masukkan harus sama persis dengan kartu, termasuk semua huruf.",
+    "footer.help": "Masih mengalami masalah? Hubungi dukungan melalui aplikasi untuk mendapatkan bantuan lebih lanjut."
+  }
+}

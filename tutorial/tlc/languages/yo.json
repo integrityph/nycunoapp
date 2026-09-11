@@ -1,0 +1,29 @@
+{
+  "yo": {
+    "meta.title": "Itọsọna Fifi Iwe-aṣẹ T&LC Sọ́wọ̀n",
+    "header.breadcrumb": "Àwọn ẹ̀kọ́ / Iwe-aṣẹ T&LC",
+    "page.eyebrow": "Itọsọna ìforúkọsílẹ̀",
+    "page.title": "Bí o ṣe lè gbe Iwe-aṣẹ T&LC rẹ sókè",
+    "page.intro": "Ṣe o ní ìṣòro pẹ̀lú ìgbésẹ̀ Iwe-aṣẹ T&LC nínú app? Tẹ̀lé àwọn ìgbésẹ̀ tó wà nísàlẹ̀ — àmì nọ́mbà kọ̀ọ̀kan lórí àwọn àwòrán iboju ń fi ohun tí o yẹ kí o tẹ tàbí kún sí hàn gbangba.",
+    "step1.title": "Lọ sí apá Document",
+    "step1.body": "Nínú app ìforúkọsílẹ̀, ṣí apá <strong class=\"text-ink font-medium\">Document</strong>. O máa rí káàdì kan tí a pè ní <strong class=\"text-ink font-medium\">T&LC License</strong>.",
+    "step2.title": "Tẹ T&LC License kí o sì kún àwọn àlàyé",
+    "step2.body": "Tẹ káàdì <strong class=\"text-ink font-medium\">T&LC License</strong> láti ṣí fọ́ọ̀mù náà, lẹ́yìn náà tẹ̀lé àwọn àmì nọ́mbà tó wà nísàlẹ̀ ní ìlànà.",
+    "step3.title": "Wa àwọn àlàyé lórí iwe-aṣẹ rẹ",
+    "step3.body": "Ṣé o kò mọ ibi tí o yẹ kí o wò? Àwọn àmì <strong class=\"text-ink font-medium\">3</strong> àti <strong class=\"text-ink font-medium\">4</strong> tó wà nísàlẹ̀ bá àwọn nọ́mbà kan náà nínú fọ́ọ̀mù ìgbésẹ̀ 2 mu.",
+    "step4.title": "Fipamọ́",
+    "step4.body": "Nígbà tí gbogbo nǹkan bá bá ara wọn mu, tẹ <strong class=\"text-ink font-medium\">Save</strong> (àmì 5 nínú ìgbésẹ̀ 2). Ìgbésẹ̀ T&LC License rẹ ti parí báyìí.",
+    "legend.tap": "Tẹ káàdì yìí láti ṣí fọ́ọ̀mù T&LC License.",
+    "legend.upload": "Tẹ ibi yìí láti gbe fọ́tò tó mọ́ ti iwe-aṣẹ rẹ sókè.",
+    "legend.docnum": "Tẹ nọ́mbà iwe-aṣẹ rẹ gẹ́gẹ́ bí a ṣe tẹ̀ ẹ́ sórí káàdì rẹ.",
+    "legend.expiry": "Yan ọjọ́ tí iwe-aṣẹ rẹ yóò parí gẹ́gẹ́ bí ó ṣe wà lórí káàdì rẹ.",
+    "legend.save": "Tẹ Save nígbà tí ohun gbogbo bá tọ́.",
+    "legend.cardnum": "Nọ́mbà iwe-aṣẹ — tẹ èyí sínú pápá Document Number.",
+    "legend.cardexpiry": "Ọjọ́ ìparí — yan ọjọ́ kan náà nínú pápá Expiry Date.",
+    "tips.title": "Kí o tó fipamọ́",
+    "tips.item1": "Rí i dájú pé fọ́tò iwe-aṣẹ náà mọ́, ìmọ́lẹ̀ sì wà dáadáa, kò sì gé e kúrò.",
+    "tips.item2": "Ṣàyẹ̀wò pé iwe-aṣẹ rẹ kò tíì parí — tí ó bá ti parí, o gbọ́dọ̀ tún un ṣe kí o tó tẹ̀síwájú.",
+    "tips.item3": "Nọ́mbà ìwé tí o bá tẹ̀ sílẹ̀ gbọ́dọ̀ bá káàdì náà mu pátápátá, pẹ̀lú gbogbo àwọn lẹ́tà.",
+    "footer.help": "Ṣé ìṣòro ṣì wà? Kàn sí support láti inú app fún ìrànlọ́wọ́ síi."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ja": {
+    "meta.title": "T&LCライセンスのアップロードガイド",
+    "header.breadcrumb": "チュートリアル / T&LCライセンス",
+    "page.eyebrow": "登録ガイド",
+    "page.title": "T&LCライセンスをアップロードする方法",
+    "page.intro": "アプリのT&LCライセンスの手順でお困りですか？以下の手順に従ってください。スクリーンショットの番号付きマーカーで、どこをタップするか、何を入力するかを正確に確認できます。",
+    "step1.title": "Documentセクションを開く",
+    "step1.body": "登録アプリで<strong class=\"text-ink font-medium\">Document</strong>セクションを開きます。<strong class=\"text-ink font-medium\">T&LC License</strong>というカードが表示されます。",
+    "step2.title": "T&LC Licenseをタップして詳細を入力",
+    "step2.body": "<strong class=\"text-ink font-medium\">T&LC License</strong>カードをタップしてフォームを開き、下の番号付きマーカーを順番に確認してください。",
+    "step3.title": "ライセンスから詳細を確認する",
+    "step3.body": "どこを見ればよいかわからない場合は、下の<strong class=\"text-ink font-medium\">3</strong>と<strong class=\"text-ink font-medium\">4</strong>のマーカーが、ステップ2のフォームにある同じ番号と対応しています。",
+    "step4.title": "保存",
+    "step4.body": "すべて一致していることを確認したら、<strong class=\"text-ink font-medium\">Save</strong>をタップします（ステップ2のマーカー5）。これでT&LC Licenseの手順は完了です。",
+    "legend.tap": "このカードをタップしてT&LC Licenseフォームを開きます。",
+    "legend.upload": "ここをタップしてライセンスの鮮明な写真をアップロードします。",
+    "legend.docnum": "カードに印刷されているとおりに、ライセンス番号を正確に入力してください。",
+    "legend.expiry": "カードに記載されている有効期限を選択してください。",
+    "legend.save": "すべて正しいことを確認したらSaveをタップしてください。",
+    "legend.cardnum": "ライセンス番号 — Document Numberフィールドに入力します。",
+    "legend.cardexpiry": "有効期限 — Expiry Dateフィールドで同じ日付を選択します。",
+    "tips.title": "保存する前に",
+    "tips.item1": "ライセンスの写真が鮮明で、十分な明るさがあり、端が切れていないことを確認してください。",
+    "tips.item2": "ライセンスの有効期限が切れていないことを確認してください。期限切れの場合は、先に更新する必要があります。",
+    "tips.item3": "入力する書類番号は、文字を含め、カードの記載と完全に一致している必要があります。",
+    "footer.help": "まだ問題がありますか？アプリ内からサポートに連絡して、さらにサポートを受けてください。"
+  }
+}

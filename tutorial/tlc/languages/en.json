@@ -1,0 +1,29 @@
+{
+  "en": {
+    "meta.title": "T&LC License Upload Guide",
+    "header.breadcrumb": "Tutorials / T&LC License",
+    "page.eyebrow": "Registration guide",
+    "page.title": "How to upload your T&LC License",
+    "page.intro": "Having trouble with the T&LC License step in the app? Follow the steps below — each numbered marker on the screenshots shows exactly what to tap or fill in.",
+    "step1.title": "Go to the Document section",
+    "step1.body": "In the registration app, open the <strong class=\"text-ink font-medium\">Document</strong> section. You'll see a card labeled <strong class=\"text-ink font-medium\">T&LC License</strong>.",
+    "step2.title": "Tap T&LC License and fill in the details",
+    "step2.body": "Tap the <strong class=\"text-ink font-medium\">T&LC License</strong> card to open the form, then follow the numbered markers below in order.",
+    "step3.title": "Find the details on your license",
+    "step3.body": "Not sure where to look? Markers <strong class=\"text-ink font-medium\">3</strong> and <strong class=\"text-ink font-medium\">4</strong> below match the same numbers from the form in step 2.",
+    "step4.title": "Save",
+    "step4.body": "Once everything matches, tap <strong class=\"text-ink font-medium\">Save</strong> (marker 5 in step 2). Your T&LC License step is now complete.",
+    "legend.tap": "Tap this card to open the T&LC License form.",
+    "legend.upload": "Tap here to upload a clear photo of your license.",
+    "legend.docnum": "Type your license number exactly as printed on your card.",
+    "legend.expiry": "Select the expiry date shown on your card.",
+    "legend.save": "Tap Save once everything looks correct.",
+    "legend.cardnum": "License number — type this into the Document Number field.",
+    "legend.cardexpiry": "Expiry date — select this same date in the Expiry Date field.",
+    "tips.title": "Before you save",
+    "tips.item1": "Make sure the license photo is clear, well-lit, and not cropped.",
+    "tips.item2": "Check that your license hasn't expired — you'll need to renew it first if it has.",
+    "tips.item3": "The document number you type in must match the card exactly, including any letters.",
+    "footer.help": "Still having trouble? Contact support from within the app for further assistance."
+  }
+}

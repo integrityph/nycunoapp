@@ -1,0 +1,29 @@
+{
+  "tr": {
+    "meta.title": "T&LC Lisansı Yükleme Kılavuzu",
+    "header.breadcrumb": "Eğitimler / T&LC Lisansı",
+    "page.eyebrow": "Kayıt kılavuzu",
+    "page.title": "T&LC Lisansınızı nasıl yüklersiniz?",
+    "page.intro": "Uygulamadaki T&LC Lisansı adımında sorun mu yaşıyorsunuz? Aşağıdaki adımları izleyin — ekran görüntülerindeki her numaralı işaret, tam olarak nereye dokunmanız veya neyi doldurmanız gerektiğini gösterir.",
+    "step1.title": "Document bölümüne gidin",
+    "step1.body": "Kayıt uygulamasında <strong class=\"text-ink font-medium\">Document</strong> bölümünü açın. <strong class=\"text-ink font-medium\">T&LC License</strong> etiketli bir kart göreceksiniz.",
+    "step2.title": "T&LC License'a dokunun ve bilgileri doldurun",
+    "step2.body": "Formu açmak için <strong class=\"text-ink font-medium\">T&LC License</strong> kartına dokunun, ardından aşağıdaki numaralı işaretleri sırayla takip edin.",
+    "step3.title": "Lisansınızdaki bilgileri bulun",
+    "step3.body": "Nereye bakacağınızdan emin değil misiniz? Aşağıdaki <strong class=\"text-ink font-medium\">3</strong> ve <strong class=\"text-ink font-medium\">4</strong> numaralı işaretler, 2. adımdaki formdaki aynı numaralarla eşleşir.",
+    "step4.title": "Kaydet",
+    "step4.body": "Her şey eşleştiğinde <strong class=\"text-ink font-medium\">Save</strong> seçeneğine dokunun (2. adımdaki 5 numaralı işaret). T&LC License adımınız artık tamamlandı.",
+    "legend.tap": "T&LC License formunu açmak için bu karta dokunun.",
+    "legend.upload": "Lisansınızın net bir fotoğrafını yüklemek için buraya dokunun.",
+    "legend.docnum": "Lisans numaranızı kartınızda yazdığı şekliyle aynen girin.",
+    "legend.expiry": "Kartınızda gösterilen son geçerlilik tarihini seçin.",
+    "legend.save": "Her şey doğru göründüğünde Save seçeneğine dokunun.",
+    "legend.cardnum": "Lisans numarası — bunu Document Number alanına girin.",
+    "legend.cardexpiry": "Son geçerlilik tarihi — Expiry Date alanında aynı tarihi seçin.",
+    "tips.title": "Kaydetmeden önce",
+    "tips.item1": "Lisans fotoğrafının net, iyi aydınlatılmış ve kırpılmamış olduğundan emin olun.",
+    "tips.item2": "Lisansınızın süresinin dolmadığını kontrol edin — süresi dolduysa önce yenilemeniz gerekir.",
+    "tips.item3": "Girdiğiniz belge numarası, harfler de dahil olmak üzere karttaki numarayla tamamen aynı olmalıdır.",
+    "footer.help": "Hâlâ sorun mu yaşıyorsunuz? Daha fazla yardım için uygulama içinden destek ekibiyle iletişime geçin."
+  }
+}

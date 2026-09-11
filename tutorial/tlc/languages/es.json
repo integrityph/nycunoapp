@@ -1,0 +1,29 @@
+{
+  "es": {
+    "meta.title": "Guía para subir la licencia T&LC",
+    "header.breadcrumb": "Tutoriales / Licencia T&LC",
+    "page.eyebrow": "Guía de registro",
+    "page.title": "Cómo subir su licencia T&LC",
+    "page.intro": "¿Tiene problemas con el paso de la licencia T&LC en la aplicación? Siga los pasos que aparecen a continuación: cada marcador numerado de las capturas de pantalla muestra exactamente qué debe tocar o completar.",
+    "step1.title": "Vaya a la sección Document",
+    "step1.body": "En la aplicación de registro, abra la sección <strong class=\"text-ink font-medium\">Document</strong>. Verá una tarjeta con la etiqueta <strong class=\"text-ink font-medium\">T&LC License</strong>.",
+    "step2.title": "Toque T&LC License y complete los datos",
+    "step2.body": "Toque la tarjeta <strong class=\"text-ink font-medium\">T&LC License</strong> para abrir el formulario y, a continuación, siga los marcadores numerados de abajo en orden.",
+    "step3.title": "Busque los datos en su licencia",
+    "step3.body": "¿No está seguro de dónde buscar? Los marcadores <strong class=\"text-ink font-medium\">3</strong> y <strong class=\"text-ink font-medium\">4</strong> de abajo corresponden a los mismos números del formulario del paso 2.",
+    "step4.title": "Guardar",
+    "step4.body": "Cuando todo coincida, toque <strong class=\"text-ink font-medium\">Save</strong> (marcador 5 del paso 2). El paso de T&LC License ya está completo.",
+    "legend.tap": "Toque esta tarjeta para abrir el formulario de T&LC License.",
+    "legend.upload": "Toque aquí para subir una foto clara de su licencia.",
+    "legend.docnum": "Escriba el número de licencia exactamente como aparece impreso en su tarjeta.",
+    "legend.expiry": "Seleccione la fecha de vencimiento que aparece en su tarjeta.",
+    "legend.save": "Toque Save cuando todo parezca correcto.",
+    "legend.cardnum": "Número de licencia — introdúzcalo en el campo Document Number.",
+    "legend.cardexpiry": "Fecha de vencimiento — seleccione la misma fecha en el campo Expiry Date.",
+    "tips.title": "Antes de guardar",
+    "tips.item1": "Asegúrese de que la foto de la licencia sea clara, esté bien iluminada y no esté recortada.",
+    "tips.item2": "Compruebe que su licencia no haya vencido. Si ha vencido, primero deberá renovarla.",
+    "tips.item3": "El número de documento que introduzca debe coincidir exactamente con la tarjeta, incluidas las letras.",
+    "footer.help": "¿Sigue teniendo problemas? Póngase en contacto con soporte desde la aplicación para obtener más ayuda."
+  }
+}

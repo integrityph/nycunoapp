@@ -1,0 +1,29 @@
+{
+  "vi": {
+    "meta.title": "Hướng dẫn tải lên Giấy phép T&LC",
+    "header.breadcrumb": "Hướng dẫn / Giấy phép T&LC",
+    "page.eyebrow": "Hướng dẫn đăng ký",
+    "page.title": "Cách tải lên Giấy phép T&LC của bạn",
+    "page.intro": "Bạn gặp khó khăn với bước Giấy phép T&LC trong ứng dụng? Hãy làm theo các bước dưới đây — mỗi dấu đánh số trên ảnh chụp màn hình cho biết chính xác bạn cần chạm vào đâu hoặc điền thông tin gì.",
+    "step1.title": "Đi đến phần Document",
+    "step1.body": "Trong ứng dụng đăng ký, mở phần <strong class=\"text-ink font-medium\">Document</strong>. Bạn sẽ thấy một thẻ có nhãn <strong class=\"text-ink font-medium\">T&LC License</strong>.",
+    "step2.title": "Chạm vào T&LC License và điền thông tin",
+    "step2.body": "Chạm vào thẻ <strong class=\"text-ink font-medium\">T&LC License</strong> để mở biểu mẫu, sau đó làm theo các dấu đánh số bên dưới theo thứ tự.",
+    "step3.title": "Tìm thông tin trên giấy phép của bạn",
+    "step3.body": "Không chắc phải tìm ở đâu? Các dấu <strong class=\"text-ink font-medium\">3</strong> và <strong class=\"text-ink font-medium\">4</strong> bên dưới tương ứng với các số giống nhau trong biểu mẫu ở bước 2.",
+    "step4.title": "Lưu",
+    "step4.body": "Khi mọi thông tin đã khớp, hãy chạm vào <strong class=\"text-ink font-medium\">Save</strong> (dấu số 5 ở bước 2). Bước T&LC License của bạn đã hoàn tất.",
+    "legend.tap": "Chạm vào thẻ này để mở biểu mẫu T&LC License.",
+    "legend.upload": "Chạm vào đây để tải lên ảnh giấy phép rõ nét.",
+    "legend.docnum": "Nhập số giấy phép chính xác như được in trên thẻ của bạn.",
+    "legend.expiry": "Chọn ngày hết hạn được hiển thị trên thẻ của bạn.",
+    "legend.save": "Chạm vào Save khi mọi thông tin đều chính xác.",
+    "legend.cardnum": "Số giấy phép — nhập số này vào trường Document Number.",
+    "legend.cardexpiry": "Ngày hết hạn — chọn cùng ngày này trong trường Expiry Date.",
+    "tips.title": "Trước khi lưu",
+    "tips.item1": "Đảm bảo ảnh giấy phép rõ nét, đủ ánh sáng và không bị cắt.",
+    "tips.item2": "Kiểm tra giấy phép của bạn chưa hết hạn — nếu đã hết hạn, bạn cần gia hạn trước.",
+    "tips.item3": "Số tài liệu bạn nhập phải khớp hoàn toàn với thẻ, bao gồm cả các chữ cái.",
+    "footer.help": "Vẫn gặp khó khăn? Hãy liên hệ bộ phận hỗ trợ từ trong ứng dụng để được trợ giúp thêm."
+  }
+}

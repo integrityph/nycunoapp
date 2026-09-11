@@ -1,0 +1,29 @@
+{
+  "ko": {
+    "meta.title": "T&LC 라이선스 업로드 가이드",
+    "header.breadcrumb": "튜토리얼 / T&LC 라이선스",
+    "page.eyebrow": "등록 가이드",
+    "page.title": "T&LC 라이선스를 업로드하는 방법",
+    "page.intro": "앱에서 T&LC 라이선스 단계에 문제가 있나요? 아래 단계를 따라주세요. 스크린샷의 각 번호 표시는 정확히 무엇을 탭하거나 입력해야 하는지 보여줍니다.",
+    "step1.title": "Document 섹션으로 이동",
+    "step1.body": "등록 앱에서 <strong class=\"text-ink font-medium\">Document</strong> 섹션을 엽니다. <strong class=\"text-ink font-medium\">T&LC License</strong>라고 표시된 카드를 볼 수 있습니다.",
+    "step2.title": "T&LC License를 탭하고 정보를 입력",
+    "step2.body": "<strong class=\"text-ink font-medium\">T&LC License</strong> 카드를 탭하여 양식을 연 다음, 아래의 번호 표시를 순서대로 따라주세요.",
+    "step3.title": "라이선스에서 정보를 찾기",
+    "step3.body": "어디에서 찾아야 할지 모르겠나요? 아래의 <strong class=\"text-ink font-medium\">3</strong>번과 <strong class=\"text-ink font-medium\">4</strong>번 표시는 2단계 양식의 같은 번호와 일치합니다.",
+    "step4.title": "저장",
+    "step4.body": "모든 정보가 일치하면 <strong class=\"text-ink font-medium\">Save</strong>를 탭하세요(2단계의 5번 표시). 이제 T&LC License 단계가 완료되었습니다.",
+    "legend.tap": "이 카드를 탭하여 T&LC License 양식을 엽니다.",
+    "legend.upload": "여기를 탭하여 라이선스의 선명한 사진을 업로드합니다.",
+    "legend.docnum": "카드에 인쇄된 그대로 라이선스 번호를 입력합니다.",
+    "legend.expiry": "카드에 표시된 만료 날짜를 선택합니다.",
+    "legend.save": "모든 정보가 정확한지 확인한 후 Save를 탭합니다.",
+    "legend.cardnum": "라이선스 번호 — 이 번호를 Document Number 필드에 입력합니다.",
+    "legend.cardexpiry": "만료 날짜 — Expiry Date 필드에서 동일한 날짜를 선택합니다.",
+    "tips.title": "저장하기 전에",
+    "tips.item1": "라이선스 사진이 선명하고 조명이 충분하며 잘려 있지 않은지 확인하세요.",
+    "tips.item2": "라이선스가 만료되지 않았는지 확인하세요. 만료된 경우 먼저 갱신해야 합니다.",
+    "tips.item3": "입력하는 문서 번호는 문자의 포함 여부까지 카드와 정확히 일치해야 합니다.",
+    "footer.help": "여전히 문제가 있나요? 추가 지원을 받으려면 앱에서 지원팀에 문의하세요."
+  }
+}

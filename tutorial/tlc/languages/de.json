@@ -1,0 +1,29 @@
+{
+  "de": {
+    "meta.title": "Anleitung zum Hochladen der T&LC-Lizenz",
+    "header.breadcrumb": "Tutorials / T&LC-Lizenz",
+    "page.eyebrow": "Registrierungsanleitung",
+    "page.title": "So laden Sie Ihre T&LC-Lizenz hoch",
+    "page.intro": "Probleme mit dem Schritt zur T&LC-Lizenz in der App? Folgen Sie den untenstehenden Schritten — jede nummerierte Markierung auf den Screenshots zeigt genau, was Sie antippen oder ausfüllen müssen.",
+    "step1.title": "Zum Bereich „Document“ gehen",
+    "step1.body": "Öffnen Sie in der Registrierungs-App den Bereich <strong class=\"text-ink font-medium\">Document</strong>. Dort sehen Sie eine Karte mit der Bezeichnung <strong class=\"text-ink font-medium\">T&LC License</strong>.",
+    "step2.title": "T&LC License antippen und Daten eingeben",
+    "step2.body": "Tippen Sie auf die Karte <strong class=\"text-ink font-medium\">T&LC License</strong>, um das Formular zu öffnen, und folgen Sie anschließend den nummerierten Markierungen unten in der angegebenen Reihenfolge.",
+    "step3.title": "Daten auf Ihrer Lizenz finden",
+    "step3.body": "Sie wissen nicht, wo Sie suchen sollen? Die Markierungen <strong class=\"text-ink font-medium\">3</strong> und <strong class=\"text-ink font-medium\">4</strong> unten entsprechen den gleichen Nummern im Formular aus Schritt 2.",
+    "step4.title": "Speichern",
+    "step4.body": "Wenn alles übereinstimmt, tippen Sie auf <strong class=\"text-ink font-medium\">Save</strong> (Markierung 5 in Schritt 2). Der Schritt T&LC License ist nun abgeschlossen.",
+    "legend.tap": "Tippen Sie auf diese Karte, um das T&LC-License-Formular zu öffnen.",
+    "legend.upload": "Tippen Sie hier, um ein klares Foto Ihrer Lizenz hochzuladen.",
+    "legend.docnum": "Geben Sie Ihre Lizenznummer genau so ein, wie sie auf Ihrer Karte aufgedruckt ist.",
+    "legend.expiry": "Wählen Sie das auf Ihrer Karte angegebene Ablaufdatum aus.",
+    "legend.save": "Tippen Sie auf Save, sobald alles korrekt aussieht.",
+    "legend.cardnum": "Lizenznummer — geben Sie diese in das Feld Document Number ein.",
+    "legend.cardexpiry": "Ablaufdatum — wählen Sie dasselbe Datum im Feld Expiry Date aus.",
+    "tips.title": "Vor dem Speichern",
+    "tips.item1": "Stellen Sie sicher, dass das Lizenzfoto klar, gut beleuchtet und nicht zugeschnitten ist.",
+    "tips.item2": "Überprüfen Sie, ob Ihre Lizenz noch gültig ist — wenn sie abgelaufen ist, müssen Sie sie zuerst erneuern.",
+    "tips.item3": "Die eingegebene Dokumentennummer muss exakt mit der Karte übereinstimmen, einschließlich aller Buchstaben.",
+    "footer.help": "Haben Sie weiterhin Probleme? Wenden Sie sich über die App an den Support, um weitere Hilfe zu erhalten."
+  }
+}

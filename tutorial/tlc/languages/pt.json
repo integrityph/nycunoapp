@@ -1,0 +1,29 @@
+{
+  "pt": {
+    "meta.title": "Guia para enviar a licença T&LC",
+    "header.breadcrumb": "Tutoriais / Licença T&LC",
+    "page.eyebrow": "Guia de registro",
+    "page.title": "Como enviar sua licença T&LC",
+    "page.intro": "Está com dificuldade na etapa da licença T&LC no aplicativo? Siga as etapas abaixo — cada marcador numerado nas capturas de tela mostra exatamente o que tocar ou preencher.",
+    "step1.title": "Vá para a seção Document",
+    "step1.body": "No aplicativo de registro, abra a seção <strong class=\"text-ink font-medium\">Document</strong>. Você verá um cartão chamado <strong class=\"text-ink font-medium\">T&LC License</strong>.",
+    "step2.title": "Toque em T&LC License e preencha os dados",
+    "step2.body": "Toque no cartão <strong class=\"text-ink font-medium\">T&LC License</strong> para abrir o formulário e siga os marcadores numerados abaixo na ordem.",
+    "step3.title": "Encontre os dados na sua licença",
+    "step3.body": "Não sabe onde procurar? Os marcadores <strong class=\"text-ink font-medium\">3</strong> e <strong class=\"text-ink font-medium\">4</strong> abaixo correspondem aos mesmos números do formulário na etapa 2.",
+    "step4.title": "Salvar",
+    "step4.body": "Quando tudo estiver correto, toque em <strong class=\"text-ink font-medium\">Save</strong> (marcador 5 na etapa 2). A etapa da T&LC License está concluída.",
+    "legend.tap": "Toque neste cartão para abrir o formulário da T&LC License.",
+    "legend.upload": "Toque aqui para enviar uma foto nítida da sua licença.",
+    "legend.docnum": "Digite o número da licença exatamente como está impresso no seu cartão.",
+    "legend.expiry": "Selecione a data de validade mostrada no seu cartão.",
+    "legend.save": "Toque em Save quando tudo estiver correto.",
+    "legend.cardnum": "Número da licença — digite-o no campo Document Number.",
+    "legend.cardexpiry": "Data de validade — selecione a mesma data no campo Expiry Date.",
+    "tips.title": "Antes de salvar",
+    "tips.item1": "Certifique-se de que a foto da licença esteja nítida, bem iluminada e não esteja cortada.",
+    "tips.item2": "Verifique se sua licença não expirou — se tiver expirado, será necessário renová-la primeiro.",
+    "tips.item3": "O número do documento digitado deve corresponder exatamente ao cartão, incluindo todas as letras.",
+    "footer.help": "Ainda está com dificuldades? Entre em contato com o suporte pelo aplicativo para obter mais ajuda."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "zh": {
+    "meta.title": "T&LC 许可证上传指南",
+    "header.breadcrumb": "教程 / T&LC 许可证",
+    "page.eyebrow": "注册指南",
+    "page.title": "如何上传您的 T&LC 许可证",
+    "page.intro": "在应用中进行 T&LC 许可证操作时遇到问题？请按照以下步骤操作 — 截图中的每个编号标记都会准确显示需要点击或填写的位置。",
+    "step1.title": "进入 Document 部分",
+    "step1.body": "在注册应用中，打开 <strong class=\"text-ink font-medium\">Document</strong> 部分。您会看到一张标有 <strong class=\"text-ink font-medium\">T&LC License</strong> 的卡片。",
+    "step2.title": "点击 T&LC License 并填写详细信息",
+    "step2.body": "点击 <strong class=\"text-ink font-medium\">T&LC License</strong> 卡片打开表单，然后按照下面的编号标记依次操作。",
+    "step3.title": "在您的许可证上查找详细信息",
+    "step3.body": "不确定在哪里查找？下面的 <strong class=\"text-ink font-medium\">3</strong> 和 <strong class=\"text-ink font-medium\">4</strong> 号标记与第 2 步表单中的相同编号相对应。",
+    "step4.title": "保存",
+    "step4.body": "确认所有信息一致后，点击 <strong class=\"text-ink font-medium\">Save</strong>（第 2 步中的编号 5）。您的 T&LC License 步骤现在已经完成。",
+    "legend.tap": "点击此卡片以打开 T&LC License 表单。",
+    "legend.upload": "点击此处上传清晰的许可证照片。",
+    "legend.docnum": "按照卡片上的打印内容准确输入许可证号码。",
+    "legend.expiry": "选择卡片上显示的到期日期。",
+    "legend.save": "确认所有信息正确后，点击 Save。",
+    "legend.cardnum": "许可证号码 — 将此号码输入 Document Number 字段。",
+    "legend.cardexpiry": "到期日期 — 在 Expiry Date 字段中选择相同的日期。",
+    "tips.title": "保存之前",
+    "tips.item1": "确保许可证照片清晰、光线充足，并且没有被裁剪。",
+    "tips.item2": "检查您的许可证是否已过期 — 如果已过期，您需要先续期。",
+    "tips.item3": "您输入的文档号码必须与卡片完全一致，包括所有字母。",
+    "footer.help": "仍然遇到问题？请通过应用内的支持功能联系支持团队以获得进一步帮助。"
+  }
+}

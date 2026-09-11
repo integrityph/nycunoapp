@@ -1,0 +1,29 @@
+{
+  "sw": {
+    "meta.title": "Mwongozo wa Kupakia Leseni ya T&LC",
+    "header.breadcrumb": "Mafunzo / Leseni ya T&LC",
+    "page.eyebrow": "Mwongozo wa usajili",
+    "page.title": "Jinsi ya kupakia Leseni yako ya T&LC",
+    "page.intro": "Una tatizo na hatua ya Leseni ya T&LC kwenye programu? Fuata hatua zilizo hapa chini — kila alama yenye nambari kwenye picha za skrini inaonyesha hasa unachopaswa kugusa au kujaza.",
+    "step1.title": "Nenda kwenye sehemu ya Document",
+    "step1.body": "Katika programu ya usajili, fungua sehemu ya <strong class=\"text-ink font-medium\">Document</strong>. Utaona kadi iliyoandikwa <strong class=\"text-ink font-medium\">T&LC License</strong>.",
+    "step2.title": "Gusa T&LC License na ujaze maelezo",
+    "step2.body": "Gusa kadi ya <strong class=\"text-ink font-medium\">T&LC License</strong> ili kufungua fomu, kisha fuata alama zenye nambari hapa chini kwa mpangilio.",
+    "step3.title": "Tafuta maelezo kwenye leseni yako",
+    "step3.body": "Hujui pa kuangalia? Alama <strong class=\"text-ink font-medium\">3</strong> na <strong class=\"text-ink font-medium\">4</strong> hapa chini zinalingana na nambari hizo hizo kwenye fomu ya hatua ya 2.",
+    "step4.title": "Hifadhi",
+    "step4.body": "Baada ya kila kitu kulingana, gusa <strong class=\"text-ink font-medium\">Save</strong> (alama ya 5 katika hatua ya 2). Hatua yako ya T&LC License sasa imekamilika.",
+    "legend.tap": "Gusa kadi hii ili kufungua fomu ya T&LC License.",
+    "legend.upload": "Gusa hapa ili kupakia picha iliyo wazi ya leseni yako.",
+    "legend.docnum": "Andika nambari ya leseni yako kama ilivyochapishwa kwenye kadi yako.",
+    "legend.expiry": "Chagua tarehe ya mwisho wa matumizi iliyo kwenye kadi yako.",
+    "legend.save": "Gusa Save baada ya kuhakikisha kila kitu kiko sahihi.",
+    "legend.cardnum": "Nambari ya leseni — andika hii kwenye sehemu ya Document Number.",
+    "legend.cardexpiry": "Tarehe ya mwisho wa matumizi — chagua tarehe hiyo hiyo kwenye sehemu ya Expiry Date.",
+    "tips.title": "Kabla ya kuhifadhi",
+    "tips.item1": "Hakikisha picha ya leseni iko wazi, ina mwangaza mzuri, na haijakatwa.",
+    "tips.item2": "Hakikisha leseni yako haijaisha muda — ikiwa imeisha, utahitaji kuisasisha kwanza.",
+    "tips.item3": "Nambari ya hati unayoandika lazima ilingane kabisa na iliyo kwenye kadi, ikijumuisha herufi zote.",
+    "footer.help": "Bado una tatizo? Wasiliana na usaidizi kupitia programu kwa msaada zaidi."
+  }
+}
