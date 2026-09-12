@@ -1,0 +1,28 @@
+{
+  "yo": {
+    "meta.title": "Ìtọ́sọ́nà fún Gbigbe Ẹ̀rí Ìdánilójú FHV Sórí Ẹ̀rọ",
+    "header.breadcrumb": "Àwọn ẹ̀kọ́ / Ẹ̀rí Ìdánilójú FHV",
+    "page.eyebrow": "Ìtọ́sọ́nà ìforúkọsílẹ̀",
+    "page.title": "Bí a ṣe lè gbe Ẹ̀rí Ìdánilójú FHV rẹ sórí ẹ̀rọ",
+    "page.intro": "Ṣé o ń ní ìṣòro pẹ̀lú ìgbésẹ̀ Ẹ̀rí Ìdánilójú FHV nínú app náà? Tẹ̀lé àwọn ìgbésẹ̀ tó wà nísàlẹ̀ — àmì nọ́mbà kọ̀ọ̀kan nínú àwọn àwòrán ojú-iboju ń fi hàn gangan ibi tí o yẹ kí o tẹ̀ tàbí ohun tí o yẹ kí o kún.",
+    "step1.title": "Lọ sí apá Vehicles",
+    "step1.body": "Nínú app ìforúkọsílẹ̀, ṣí apá <strong class=\"text-ink font-medium\">Vehicles</strong>, kí o sì lọ sílẹ̀ títí tí o fi dé <strong class=\"text-ink font-medium\">FHV Insurance Certificate</strong>.",
+    "step2.title": "Kún àwọn àlàyé Ẹ̀rí Ìdánilójú FHV",
+    "step2.body": "Tẹ̀lé àwọn àmì nọ́mbà tó wà nísàlẹ̀ ní ìtòlẹ́sẹẹsẹ láti parí apá yìí.",
+    "legend.upload": "Tẹ ibi yìí láti gbe fọ́tò tó mọ́ dáadáa ti Ẹ̀rí Ìdánilójú FHV rẹ sórí ẹ̀rọ.",
+    "legend.docnum": "Tẹ Policy Number rẹ síbí — ó yẹ kí o wà nínú ààyè Document Number.",
+    "legend.expiry": "Yan ọjọ́ tí ìdánilójú náà máa parí gẹ́gẹ́ bí ó ṣe wà lórí ẹ̀rí rẹ.",
+    "legend.save": "Tẹ Save nígbà tí gbogbo ohun bá tọ́.",
+    "step3.title": "Wa àwọn àlàyé náà lórí ẹ̀rí ìdánilójú rẹ",
+    "step3.body": "Ṣé o kò mọ ibi tí o yẹ kí o wò? Àwọn àmì <strong class=\"text-ink font-medium\">2</strong> àti <strong class=\"text-ink font-medium\">3</strong> tó wà nísàlẹ̀ bá àwọn nọ́mbà kan náà nínú fọ́ọ̀mù ìgbésẹ̀ 2 mu.",
+    "legend.policynum": "Policy Number — tẹ nọ́mbà yìí sínú ààyè Document Number.",
+    "legend.certexpiry": "Expiration Date — yan ọjọ́ kan náà nínú ààyè Expiry Date.",
+    "step4.title": "Fipamọ́",
+    "step4.body": "Nígbà tí gbogbo ohun bá bá ara wọn mu, tẹ <strong class=\"text-ink font-medium\">Save</strong> (àmì nọ́mbà 4 nínú ìgbésẹ̀ 2). Ìgbésẹ̀ Ẹ̀rí Ìdánilójú FHV rẹ ti parí báyìí.",
+    "tips.title": "Ṣáájú kí o tó fipamọ́",
+    "tips.item1": "Rí i dájú pé fọ́tò ẹ̀rí náà mọ́ dáadáa, ìmọ́lẹ̀ sì wà tó, àti pé gbogbo igun mẹ́rin rẹ̀ hàn.",
+    "tips.item2": "Ṣàyẹ̀wò lẹ́ẹ̀kan sí i pé Policy Number tí o tẹ̀ bá èyí tó wà lórí ẹ̀rí mu pátápátá, pẹ̀lú àwọn lẹ́tà èyíkéyìí tó bá wà.",
+    "tips.item3": "Jẹ́rìí pé ìdánilójú rẹ kò tíì parí — tí ó bá ti parí, o gbọ́dọ̀ kọ́kọ́ gba ẹ̀rí tuntun láti ọ̀dọ̀ ilé-iṣẹ́ ìdánilójú rẹ.",
+    "footer.help": "Ṣé o ṣì ń ní ìṣòro? Kàn sí ẹgbẹ́ ìrànwọ́ láti inú app náà fún ìrànwọ́ síwájú."
+  }
+}

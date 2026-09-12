@@ -1,0 +1,28 @@
+{
+  "sw": {
+    "meta.title": "Mwongozo wa Kupakia Cheti cha Bima ya FHV",
+    "header.breadcrumb": "Mafunzo / Cheti cha Bima ya FHV",
+    "page.eyebrow": "Mwongozo wa usajili",
+    "page.title": "Jinsi ya kupakia Cheti chako cha Bima ya FHV",
+    "page.intro": "Unapata shida kwenye hatua ya Cheti cha Bima ya FHV katika programu? Fuata hatua zilizo hapa chini — kila alama yenye nambari kwenye picha za skrini inaonyesha kwa usahihi mahali pa kugusa au nini cha kujaza.",
+    "step1.title": "Nenda kwenye sehemu ya Magari",
+    "step1.body": "Katika programu ya usajili, fungua sehemu ya <strong class=\"text-ink font-medium\">Magari</strong> na usogeze chini hadi kwenye <strong class=\"text-ink font-medium\">Cheti cha Bima ya FHV</strong>.",
+    "step2.title": "Jaza maelezo ya Cheti cha Bima ya FHV",
+    "step2.body": "Fuata alama zenye nambari zilizo hapa chini kwa mpangilio ili kukamilisha sehemu hii.",
+    "legend.upload": "Gusa hapa ili kupakia picha iliyo wazi ya Cheti chako cha Bima ya FHV.",
+    "legend.docnum": "Andika Policy Number yako hapa — inapaswa kuingizwa kwenye sehemu ya Document Number.",
+    "legend.expiry": "Chagua tarehe ya mwisho wa uhalali iliyoonyeshwa kwenye cheti chako.",
+    "legend.save": "Gusa Save baada ya kuhakikisha kila kitu kiko sahihi.",
+    "step3.title": "Pata maelezo kwenye cheti chako cha bima",
+    "step3.body": "Hujui pa kuangalia? Alama <strong class=\"text-ink font-medium\">2</strong> na <strong class=\"text-ink font-medium\">3</strong> zilizo hapa chini zinalingana na nambari hizo hizo kwenye fomu ya hatua ya 2.",
+    "legend.policynum": "Policy Number — ingiza nambari hii kwenye sehemu ya Document Number.",
+    "legend.certexpiry": "Expiration Date — chagua tarehe hii hiyo kwenye sehemu ya Expiry Date.",
+    "step4.title": "Hifadhi",
+    "step4.body": "Baada ya kila kitu kulingana, gusa <strong class=\"text-ink font-medium\">Save</strong> (alama ya 4 katika hatua ya 2). Hatua ya FHV Insurance Certificate sasa imekamilika.",
+    "tips.title": "Kabla ya kuhifadhi",
+    "tips.item1": "Hakikisha picha ya cheti iko wazi, ina mwanga wa kutosha, na inaonyesha pembe zote nne.",
+    "tips.item2": "Kagua tena kwamba Policy Number uliyoingiza inalingana kabisa na iliyo kwenye cheti, ikijumuisha herufi zote.",
+    "tips.item3": "Thibitisha kwamba bima yako haijaisha muda wake — ikiwa imeisha, utahitaji kwanza kupata cheti kilichosasishwa kutoka kwa kampuni yako ya bima.",
+    "footer.help": "Bado unapata shida? Wasiliana na usaidizi kupitia programu ili upate msaada zaidi."
+  }
+}

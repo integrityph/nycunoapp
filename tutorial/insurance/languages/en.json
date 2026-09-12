@@ -1,0 +1,28 @@
+{
+  "en": { 
+    "meta.title": "FHV Insurance Certificate Upload Guide",
+    "header.breadcrumb": "Tutorials / FHV Insurance Certificate",
+    "page.eyebrow": "Registration guide",
+    "page.title": "How to upload your FHV Insurance Certificate",
+    "page.intro": "Having trouble with the FHV Insurance Certificate step in the app? Follow the steps below — each numbered marker on the screenshots shows exactly what to tap or fill in.",
+    "step1.title": "Go to the Vehicles section",
+    "step1.body": "In the registration app, open the <strong class=\"text-ink font-medium\">Vehicles</strong> section and scroll down to <strong class=\"text-ink font-medium\">FHV Insurance Certificate</strong>.",
+    "step2.title": "Fill in the FHV Insurance Certificate details",
+    "step2.body": "Follow the numbered markers below in order to complete this section.",
+    "legend.upload": "Tap here to upload a clear photo of your FHV insurance certificate.",
+    "legend.docnum": "Type your Policy Number here — it goes in the Document Number field.",
+    "legend.expiry": "Select the expiration date shown on your certificate.",
+    "legend.save": "Tap Save once everything looks correct.",
+    "step3.title": "Find the details on your insurance certificate",
+    "step3.body": "Not sure where to look? Markers <strong class=\"text-ink font-medium\">2</strong> and <strong class=\"text-ink font-medium\">3</strong> below match the same numbers from the form in step 2.",
+    "legend.policynum": "Policy Number — type this into the Document Number field.",
+    "legend.certexpiry": "Expiration Date — select this same date in the Expiry Date field.",
+    "step4.title": "Save",
+    "step4.body": "Once everything matches, tap <strong class=\"text-ink font-medium\">Save</strong> (marker 4 in step 2). Your FHV Insurance Certificate step is now complete.",
+    "tips.title": "Before you save",
+    "tips.item1": "Make sure the certificate photo is clear, well-lit, and shows all four corners.",
+    "tips.item2": "Double-check that the Policy Number you type matches the certificate exactly, including any letters.",
+    "tips.item3": "Confirm your insurance hasn't expired — you'll need an updated certificate from your insurer first if it has.",
+    "footer.help": "Still having trouble? Contact support from within the app for further assistance."
+  }
+}

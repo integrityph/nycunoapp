@@ -1,0 +1,28 @@
+{
+  "vi": {
+    "meta.title": "Hướng dẫn tải lên Giấy chứng nhận bảo hiểm FHV",
+    "header.breadcrumb": "Hướng dẫn / Giấy chứng nhận bảo hiểm FHV",
+    "page.eyebrow": "Hướng dẫn đăng ký",
+    "page.title": "Cách tải lên Giấy chứng nhận bảo hiểm FHV của bạn",
+    "page.intro": "Bạn gặp khó khăn với bước Giấy chứng nhận bảo hiểm FHV trong ứng dụng? Hãy làm theo các bước dưới đây — mỗi đánh dấu được đánh số trong ảnh chụp màn hình sẽ cho bạn biết chính xác cần nhấn vào đâu hoặc điền thông tin gì.",
+    "step1.title": "Đi đến phần Phương tiện",
+    "step1.body": "Trong ứng dụng đăng ký, mở phần <strong class=\"text-ink font-medium\">Phương tiện</strong> và cuộn xuống đến <strong class=\"text-ink font-medium\">Giấy chứng nhận bảo hiểm FHV</strong>.",
+    "step2.title": "Điền thông tin Giấy chứng nhận bảo hiểm FHV",
+    "step2.body": "Làm theo các đánh dấu được đánh số bên dưới theo thứ tự để hoàn tất phần này.",
+    "legend.upload": "Nhấn vào đây để tải lên ảnh rõ nét của Giấy chứng nhận bảo hiểm FHV.",
+    "legend.docnum": "Nhập Policy Number của bạn tại đây — thông tin này phải được nhập vào trường Document Number.",
+    "legend.expiry": "Chọn ngày hết hạn được hiển thị trên giấy chứng nhận của bạn.",
+    "legend.save": "Nhấn Save sau khi đảm bảo mọi thông tin đều chính xác.",
+    "step3.title": "Tìm thông tin trên giấy chứng nhận bảo hiểm của bạn",
+    "step3.body": "Không chắc cần tìm ở đâu? Các đánh dấu <strong class=\"text-ink font-medium\">2</strong> và <strong class=\"text-ink font-medium\">3</strong> bên dưới tương ứng với cùng các số trong biểu mẫu ở bước 2.",
+    "legend.policynum": "Policy Number — nhập số này vào trường Document Number.",
+    "legend.certexpiry": "Expiration Date — chọn cùng ngày này trong trường Expiry Date.",
+    "step4.title": "Lưu",
+    "step4.body": "Khi mọi thông tin đã khớp, nhấn <strong class=\"text-ink font-medium\">Save</strong> (đánh dấu số 4 ở bước 2). Bước Giấy chứng nhận bảo hiểm FHV của bạn đã hoàn tất.",
+    "tips.title": "Trước khi lưu",
+    "tips.item1": "Đảm bảo ảnh giấy chứng nhận rõ nét, đủ ánh sáng và hiển thị đầy đủ cả bốn góc.",
+    "tips.item2": "Kiểm tra lại để đảm bảo Policy Number bạn nhập khớp chính xác với thông tin trên giấy chứng nhận, bao gồm cả các chữ cái nếu có.",
+    "tips.item3": "Xác nhận rằng bảo hiểm của bạn chưa hết hạn — nếu đã hết hạn, trước tiên bạn cần nhận giấy chứng nhận được cập nhật từ công ty bảo hiểm.",
+    "footer.help": "Vẫn gặp khó khăn? Hãy liên hệ với bộ phận hỗ trợ ngay trong ứng dụng để được trợ giúp thêm."
+  }
+}

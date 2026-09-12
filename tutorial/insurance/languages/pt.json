@@ -1,0 +1,29 @@
+{
+  "pt": {
+    "direction": "ltr",
+    "meta.title": "Guia para Carregar o Certificado de Seguro FHV",
+    "header.breadcrumb": "Tutoriais / Certificado de Seguro FHV",
+    "page.eyebrow": "Guia de registro",
+    "page.title": "Como carregar seu Certificado de Seguro FHV",
+    "page.intro": "Está com dificuldades na etapa do Certificado de Seguro FHV no aplicativo? Siga as etapas abaixo — cada marcador numerado nas capturas de tela mostra exatamente onde tocar ou o que preencher.",
+    "step1.title": "Acesse a seção Veículos",
+    "step1.body": "No aplicativo de registro, abra a seção <strong class=\"text-ink font-medium\">Veículos</strong> e role para baixo até encontrar <strong class=\"text-ink font-medium\">Certificado de Seguro FHV</strong>.",
+    "step2.title": "Preencha os dados do Certificado de Seguro FHV",
+    "step2.body": "Siga os marcadores numerados abaixo na ordem para concluir esta seção.",
+    "legend.upload": "Toque aqui para carregar uma foto nítida do seu Certificado de Seguro FHV.",
+    "legend.docnum": "Digite seu Policy Number aqui — ele deve ser inserido no campo Document Number.",
+    "legend.expiry": "Selecione a data de validade indicada no seu certificado.",
+    "legend.save": "Toque em Save quando tudo estiver correto.",
+    "step3.title": "Encontre os dados no seu certificado de seguro",
+    "step3.body": "Não sabe onde procurar? Os marcadores <strong class=\"text-ink font-medium\">2</strong> e <strong class=\"text-ink font-medium\">3</strong> abaixo correspondem aos mesmos números no formulário da etapa 2.",
+    "legend.policynum": "Policy Number — digite este número no campo Document Number.",
+    "legend.certexpiry": "Expiration Date — selecione esta mesma data no campo Expiry Date.",
+    "step4.title": "Salvar",
+    "step4.body": "Quando tudo estiver correto, toque em <strong class=\"text-ink font-medium\">Save</strong> (marcador 4 na etapa 2). A etapa do FHV Insurance Certificate foi concluída.",
+    "tips.title": "Antes de salvar",
+    "tips.item1": "Certifique-se de que a foto do certificado esteja nítida, bem iluminada e mostre os quatro cantos.",
+    "tips.item2": "Verifique novamente se o Policy Number digitado corresponde exatamente ao certificado, incluindo todas as letras.",
+    "tips.item3": "Confirme que seu seguro não expirou — se tiver expirado, primeiro será necessário obter um certificado atualizado da sua seguradora.",
+    "footer.help": "Ainda está com dificuldades? Entre em contato com o suporte pelo aplicativo para obter mais ajuda."
+  }
+}

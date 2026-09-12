@@ -1,0 +1,28 @@
+{
+  "de": {
+    "meta.title": "Anleitung zum Hochladen der FHV-Versicherungsbescheinigung",
+    "header.breadcrumb": "Tutorials / FHV-Versicherungsbescheinigung",
+    "page.eyebrow": "Registrierungsanleitung",
+    "page.title": "So laden Sie Ihre FHV-Versicherungsbescheinigung hoch",
+    "page.intro": "Probleme mit dem Schritt zur FHV-Versicherungsbescheinigung in der App? Befolgen Sie die folgenden Schritte — jede nummerierte Markierung in den Screenshots zeigt genau, was Sie antippen oder ausfüllen müssen.",
+    "step1.title": "Zum Bereich Fahrzeuge gehen",
+    "step1.body": "Öffnen Sie in der Registrierungs-App den Bereich <strong class=\"text-ink font-medium\">Fahrzeuge</strong> und scrollen Sie nach unten bis zur <strong class=\"text-ink font-medium\">FHV-Versicherungsbescheinigung</strong>.",
+    "step2.title": "Angaben zur FHV-Versicherungsbescheinigung eingeben",
+    "step2.body": "Folgen Sie den unten angegebenen nummerierten Markierungen der Reihe nach, um diesen Abschnitt auszufüllen.",
+    "legend.upload": "Tippen Sie hier, um ein gut lesbares Foto Ihrer FHV-Versicherungsbescheinigung hochzuladen.",
+    "legend.docnum": "Geben Sie hier Ihre Policy Number ein — sie gehört in das Feld Document Number.",
+    "legend.expiry": "Wählen Sie das auf Ihrer Bescheinigung angegebene Ablaufdatum aus.",
+    "legend.save": "Tippen Sie auf Save, sobald alle Angaben korrekt sind.",
+    "step3.title": "Die Angaben auf Ihrer Versicherungsbescheinigung finden",
+    "step3.body": "Sie wissen nicht, wo Sie suchen müssen? Die Markierungen <strong class=\"text-ink font-medium\">2</strong> und <strong class=\"text-ink font-medium\">3</strong> unten entsprechen den gleichen Nummern im Formular aus Schritt 2.",
+    "legend.policynum": "Policy Number — geben Sie diese Nummer in das Feld Document Number ein.",
+    "legend.certexpiry": "Expiration Date — wählen Sie dasselbe Datum im Feld Expiry Date aus.",
+    "step4.title": "Speichern",
+    "step4.body": "Sobald alle Angaben übereinstimmen, tippen Sie auf <strong class=\"text-ink font-medium\">Save</strong> (Markierung 4 in Schritt 2). Der Schritt zur FHV-Versicherungsbescheinigung ist nun abgeschlossen.",
+    "tips.title": "Vor dem Speichern",
+    "tips.item1": "Stellen Sie sicher, dass das Foto der Bescheinigung klar und gut beleuchtet ist und alle vier Ecken zeigt.",
+    "tips.item2": "Überprüfen Sie noch einmal, ob die eingegebene Policy Number genau mit der Bescheinigung übereinstimmt, einschließlich aller Buchstaben.",
+    "tips.item3": "Vergewissern Sie sich, dass Ihre Versicherung noch gültig ist — falls sie abgelaufen ist, benötigen Sie zunächst eine aktualisierte Bescheinigung von Ihrer Versicherungsgesellschaft.",
+    "footer.help": "Haben Sie weiterhin Probleme? Kontaktieren Sie den Support über die App, um weitere Hilfe zu erhalten."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "zh": {
+    "meta.title": "FHV 保险证明上传指南",
+    "header.breadcrumb": "教程 / FHV 保险证明",
+    "page.eyebrow": "注册指南",
+    "page.title": "如何上传您的 FHV 保险证明",
+    "page.intro": "在应用中填写 FHV 保险证明这一步时遇到问题？请按照以下步骤操作 — 截图中的每个编号标记都会准确告诉您需要点击或填写的位置。",
+    "step1.title": "进入车辆部分",
+    "step1.body": "在注册应用中，打开 <strong class=\"text-ink font-medium\">车辆</strong> 部分，然后向下滚动到 <strong class=\"text-ink font-medium\">FHV 保险证明</strong>。",
+    "step2.title": "填写 FHV 保险证明信息",
+    "step2.body": "按照下面的编号标记顺序完成此部分。",
+    "legend.upload": "点击此处上传一张清晰的 FHV 保险证明照片。",
+    "legend.docnum": "在此输入您的保单号码（Policy Number）— 请将其填写在文件编号（Document Number）字段中。",
+    "legend.expiry": "选择保险证明上显示的到期日期。",
+    "legend.save": "确认所有信息无误后，点击保存（Save）。",
+    "step3.title": "在您的保险证明上找到相关信息",
+    "step3.body": "不确定在哪里查找？下面的 <strong class=\"text-ink font-medium\">2</strong> 和 <strong class=\"text-ink font-medium\">3</strong> 号标记与第 2 步表单中的相同编号相对应。",
+    "legend.policynum": "保单号码（Policy Number）— 将此号码填写到文件编号（Document Number）字段中。",
+    "legend.certexpiry": "到期日期（Expiration Date）— 在到期日期（Expiry Date）字段中选择相同的日期。",
+    "step4.title": "保存",
+    "step4.body": "确认所有信息一致后，点击 <strong class=\"text-ink font-medium\">保存</strong>（第 2 步中的 4 号标记）。您的 FHV 保险证明步骤现在已经完成。",
+    "tips.title": "保存之前",
+    "tips.item1": "确保保险证明照片清晰、光线充足，并且完整显示四个角。",
+    "tips.item2": "再次确认您输入的保单号码与保险证明上的号码完全一致，包括其中的任何字母。",
+    "tips.item3": "确认您的保险尚未过期 — 如果已经过期，您需要先从保险公司获取更新后的保险证明。",
+    "footer.help": "仍然遇到问题？请通过应用内的支持功能联系支持团队，以获得进一步帮助。"
+  }
+}

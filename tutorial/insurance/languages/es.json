@@ -1,0 +1,28 @@
+{
+  "es": {
+    "meta.title": "Guía para subir el certificado de seguro FHV",
+    "header.breadcrumb": "Tutoriales / Certificado de seguro FHV",
+    "page.eyebrow": "Guía de registro",
+    "page.title": "Cómo subir su certificado de seguro FHV",
+    "page.intro": "¿Tiene problemas con el paso del certificado de seguro FHV en la aplicación? Siga los pasos que se indican a continuación — cada marcador numerado en las capturas de pantalla muestra exactamente dónde tocar o qué completar.",
+    "step1.title": "Vaya a la sección Vehículos",
+    "step1.body": "En la aplicación de registro, abra la sección <strong class=\"text-ink font-medium\">Vehículos</strong> y desplácese hacia abajo hasta <strong class=\"text-ink font-medium\">Certificado de seguro FHV</strong>.",
+    "step2.title": "Complete los datos del certificado de seguro FHV",
+    "step2.body": "Siga los marcadores numerados que aparecen a continuación en orden para completar esta sección.",
+    "legend.upload": "Toque aquí para subir una foto clara de su certificado de seguro FHV.",
+    "legend.docnum": "Escriba aquí su Policy Number — debe introducirlo en el campo Document Number.",
+    "legend.expiry": "Seleccione la fecha de vencimiento que aparece en su certificado.",
+    "legend.save": "Toque Save cuando todo esté correcto.",
+    "step3.title": "Encuentre los datos en su certificado de seguro",
+    "step3.body": "¿No está seguro de dónde buscarlos? Los marcadores <strong class=\"text-ink font-medium\">2</strong> y <strong class=\"text-ink font-medium\">3</strong> que aparecen a continuación corresponden a los mismos números del formulario del paso 2.",
+    "legend.policynum": "Policy Number — introduzca este número en el campo Document Number.",
+    "legend.certexpiry": "Expiration Date — seleccione esta misma fecha en el campo Expiry Date.",
+    "step4.title": "Guardar",
+    "step4.body": "Una vez que todo coincida, toque <strong class=\"text-ink font-medium\">Save</strong> (marcador 4 del paso 2). El paso del FHV Insurance Certificate ya está completo.",
+    "tips.title": "Antes de guardar",
+    "tips.item1": "Asegúrese de que la foto del certificado sea clara, esté bien iluminada y muestre las cuatro esquinas.",
+    "tips.item2": "Compruebe nuevamente que el Policy Number que introduzca coincida exactamente con el certificado, incluidas todas las letras.",
+    "tips.item3": "Confirme que su seguro no haya vencido — si ha vencido, primero deberá obtener un certificado actualizado de su compañía de seguros.",
+    "footer.help": "¿Sigue teniendo problemas? Póngase en contacto con el servicio de asistencia desde la aplicación para obtener más ayuda."
+  }
+}

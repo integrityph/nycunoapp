@@ -1,0 +1,28 @@
+{
+  "ko": {
+    "meta.title": "FHV 보험 증명서 업로드 안내",
+    "header.breadcrumb": "튜토리얼 / FHV 보험 증명서",
+    "page.eyebrow": "등록 안내",
+    "page.title": "FHV 보험 증명서를 업로드하는 방법",
+    "page.intro": "앱에서 FHV 보험 증명서 단계에 문제가 있나요? 아래 단계를 따라 진행하세요 — 스크린샷의 각 번호 표시는 정확히 어디를 탭하거나 입력해야 하는지 보여줍니다.",
+    "step1.title": "Vehicles 섹션으로 이동",
+    "step1.body": "등록 앱에서 <strong class=\"text-ink font-medium\">Vehicles</strong> 섹션을 열고 아래로 스크롤하여 <strong class=\"text-ink font-medium\">FHV Insurance Certificate</strong>로 이동합니다.",
+    "step2.title": "FHV 보험 증명서 정보 입력",
+    "step2.body": "아래의 번호 표시를 순서대로 따라 이 섹션을 작성합니다.",
+    "legend.upload": "여기를 탭하여 FHV 보험 증명서의 선명한 사진을 업로드하세요.",
+    "legend.docnum": "여기에 Policy Number를 입력하세요 — Document Number 입력란에 입력해야 합니다.",
+    "legend.expiry": "보험 증명서에 표시된 만료 날짜를 선택하세요.",
+    "legend.save": "모든 정보가 올바른지 확인한 후 Save를 탭하세요.",
+    "step3.title": "보험 증명서에서 정보 찾기",
+    "step3.body": "어디에서 찾아야 할지 모르겠나요? 아래의 <strong class=\"text-ink font-medium\">2</strong>번과 <strong class=\"text-ink font-medium\">3</strong>번 표시는 2단계 양식에 있는 동일한 번호와 일치합니다.",
+    "legend.policynum": "Policy Number — 이 번호를 Document Number 입력란에 입력하세요.",
+    "legend.certexpiry": "Expiration Date — Expiry Date 입력란에서 동일한 날짜를 선택하세요.",
+    "step4.title": "저장",
+    "step4.body": "모든 정보가 일치하는지 확인한 후 <strong class=\"text-ink font-medium\">Save</strong>를 탭하세요 (2단계의 4번 표시). 이제 FHV Insurance Certificate 단계가 완료되었습니다.",
+    "tips.title": "저장하기 전에",
+    "tips.item1": "보험 증명서 사진이 선명하고 조명이 충분하며 네 모서리가 모두 보이는지 확인하세요.",
+    "tips.item2": "입력한 Policy Number가 보험 증명서에 표시된 번호와 정확히 일치하는지 다시 확인하세요. 문자가 포함되어 있다면 문자까지 정확히 입력해야 합니다.",
+    "tips.item3": "보험이 만료되지 않았는지 확인하세요 — 만료된 경우 먼저 보험사에서 업데이트된 증명서를 발급받아야 합니다.",
+    "footer.help": "여전히 문제가 있나요? 추가 도움이 필요하면 앱 내에서 지원팀에 문의하세요."
+  }
+}

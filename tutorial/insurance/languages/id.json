@@ -1,0 +1,28 @@
+{
+  "id": {
+    "meta.title": "Panduan Mengunggah Sertifikat Asuransi FHV",
+    "header.breadcrumb": "Tutorial / Sertifikat Asuransi FHV",
+    "page.eyebrow": "Panduan pendaftaran",
+    "page.title": "Cara mengunggah Sertifikat Asuransi FHV Anda",
+    "page.intro": "Mengalami kesulitan pada langkah Sertifikat Asuransi FHV di aplikasi? Ikuti langkah-langkah di bawah ini — setiap penanda bernomor pada tangkapan layar menunjukkan dengan tepat apa yang harus Anda ketuk atau isi.",
+    "step1.title": "Buka bagian Kendaraan",
+    "step1.body": "Di aplikasi pendaftaran, buka bagian <strong class=\"text-ink font-medium\">Kendaraan</strong> dan gulir ke bawah hingga menemukan <strong class=\"text-ink font-medium\">Sertifikat Asuransi FHV</strong>.",
+    "step2.title": "Isi detail Sertifikat Asuransi FHV",
+    "step2.body": "Ikuti penanda bernomor di bawah ini secara berurutan untuk menyelesaikan bagian ini.",
+    "legend.upload": "Ketuk di sini untuk mengunggah foto Sertifikat Asuransi FHV Anda yang jelas.",
+    "legend.docnum": "Masukkan Policy Number Anda di sini — nomor tersebut harus dimasukkan pada kolom Document Number.",
+    "legend.expiry": "Pilih tanggal kedaluwarsa yang tertera pada sertifikat Anda.",
+    "legend.save": "Ketuk Save setelah semuanya terlihat benar.",
+    "step3.title": "Temukan detail pada sertifikat asuransi Anda",
+    "step3.body": "Tidak yakin di mana harus mencarinya? Penanda <strong class=\"text-ink font-medium\">2</strong> dan <strong class=\"text-ink font-medium\">3</strong> di bawah ini sesuai dengan nomor yang sama pada formulir di langkah 2.",
+    "legend.policynum": "Policy Number — masukkan nomor ini ke dalam kolom Document Number.",
+    "legend.certexpiry": "Expiration Date — pilih tanggal yang sama pada kolom Expiry Date.",
+    "step4.title": "Simpan",
+    "step4.body": "Setelah semuanya sesuai, ketuk <strong class=\"text-ink font-medium\">Save</strong> (penanda 4 pada langkah 2). Langkah FHV Insurance Certificate Anda sekarang telah selesai.",
+    "tips.title": "Sebelum menyimpan",
+    "tips.item1": "Pastikan foto sertifikat jelas, memiliki pencahayaan yang baik, dan menampilkan keempat sudutnya.",
+    "tips.item2": "Periksa kembali bahwa Policy Number yang Anda masukkan sama persis dengan yang tertera pada sertifikat, termasuk huruf apa pun.",
+    "tips.item3": "Pastikan asuransi Anda belum kedaluwarsa — jika sudah kedaluwarsa, Anda harus terlebih dahulu mendapatkan sertifikat terbaru dari perusahaan asuransi Anda.",
+    "footer.help": "Masih mengalami kesulitan? Hubungi dukungan melalui aplikasi untuk mendapatkan bantuan lebih lanjut."
+  }
+}

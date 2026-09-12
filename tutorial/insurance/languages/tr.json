@@ -1,0 +1,28 @@
+{
+  "tr": {
+    "meta.title": "FHV Sigorta Sertifikası Yükleme Rehberi",
+    "header.breadcrumb": "Eğitimler / FHV Sigorta Sertifikası",
+    "page.eyebrow": "Kayıt rehberi",
+    "page.title": "FHV Sigorta Sertifikanızı nasıl yüklersiniz?",
+    "page.intro": "Uygulamadaki FHV Sigorta Sertifikası adımında sorun mu yaşıyorsunuz? Aşağıdaki adımları izleyin — ekran görüntülerindeki her numaralı işaret, tam olarak nereye dokunmanız veya neyi doldurmanız gerektiğini gösterir.",
+    "step1.title": "Araçlar bölümüne gidin",
+    "step1.body": "Kayıt uygulamasında <strong class=\"text-ink font-medium\">Araçlar</strong> bölümünü açın ve aşağı kaydırarak <strong class=\"text-ink font-medium\">FHV Sigorta Sertifikası</strong> bölümüne gidin.",
+    "step2.title": "FHV Sigorta Sertifikası bilgilerini doldurun",
+    "step2.body": "Bu bölümü tamamlamak için aşağıdaki numaralı işaretleri sırayla takip edin.",
+    "legend.upload": "FHV Sigorta Sertifikanızın net bir fotoğrafını yüklemek için buraya dokunun.",
+    "legend.docnum": "Policy Number bilginizi buraya yazın — bu bilgi Document Number alanına girilmelidir.",
+    "legend.expiry": "Sertifikanızda belirtilen son geçerlilik tarihini seçin.",
+    "legend.save": "Her şeyin doğru olduğundan emin olduktan sonra Save'e dokunun.",
+    "step3.title": "Bilgileri sigorta sertifikanızda bulun",
+    "step3.body": "Nereye bakacağınızdan emin değil misiniz? Aşağıdaki <strong class=\"text-ink font-medium\">2</strong> ve <strong class=\"text-ink font-medium\">3</strong> numaralı işaretler, 2. adımdaki formda bulunan aynı numaralarla eşleşir.",
+    "legend.policynum": "Policy Number — bu numarayı Document Number alanına girin.",
+    "legend.certexpiry": "Expiration Date — aynı tarihi Expiry Date alanında seçin.",
+    "step4.title": "Kaydedin",
+    "step4.body": "Her şey eşleştiğinde <strong class=\"text-ink font-medium\">Save</strong>'e dokunun (2. adımdaki 4 numaralı işaret). FHV Sigorta Sertifikası adımınız artık tamamlandı.",
+    "tips.title": "Kaydetmeden önce",
+    "tips.item1": "Sertifika fotoğrafının net, iyi aydınlatılmış olduğundan ve dört köşesinin de göründüğünden emin olun.",
+    "tips.item2": "Girdiğiniz Policy Number'ın sertifikadaki numarayla, varsa tüm harfler dahil, tamamen aynı olduğunu tekrar kontrol edin.",
+    "tips.item3": "Sigortanızın süresinin dolmadığını doğrulayın — süresi dolmuşsa öncelikle sigorta şirketinizden güncel bir sertifika almanız gerekir.",
+    "footer.help": "Hâlâ sorun mu yaşıyorsunuz? Daha fazla yardım almak için uygulama üzerinden destek ekibiyle iletişime geçin."
+  }
+}

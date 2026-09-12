@@ -1,0 +1,28 @@
+{
+  "ja": {
+    "meta.title": "FHV保険証明書アップロードガイド",
+    "header.breadcrumb": "チュートリアル / FHV保険証明書",
+    "page.eyebrow": "登録ガイド",
+    "page.title": "FHV保険証明書をアップロードする方法",
+    "page.intro": "アプリでFHV保険証明書の手順に問題がありますか？以下の手順に従ってください — スクリーンショットの各番号付きマーカーで、タップまたは入力する場所を正確に確認できます。",
+    "step1.title": "「車両」セクションに移動する",
+    "step1.body": "登録アプリで <strong class=\"text-ink font-medium\">車両</strong> セクションを開き、下にスクロールして <strong class=\"text-ink font-medium\">FHV保険証明書</strong> を表示します。",
+    "step2.title": "FHV保険証明書の情報を入力する",
+    "step2.body": "このセクションを完了するには、以下の番号付きマーカーを順番に確認してください。",
+    "legend.upload": "ここをタップして、FHV保険証明書の鮮明な写真をアップロードしてください。",
+    "legend.docnum": "ここにPolicy Numberを入力してください — Document Numberフィールドに入力します。",
+    "legend.expiry": "証明書に記載されている有効期限を選択してください。",
+    "legend.save": "すべての情報が正しいことを確認したら、「Save」をタップしてください。",
+    "step3.title": "保険証明書から必要な情報を確認する",
+    "step3.body": "どこを見ればよいかわからない場合は、以下の <strong class=\"text-ink font-medium\">2</strong> と <strong class=\"text-ink font-medium\">3</strong> のマーカーが、手順2のフォームにある同じ番号と対応しています。",
+    "legend.policynum": "Policy Number — この番号をDocument Numberフィールドに入力してください。",
+    "legend.certexpiry": "Expiration Date — Expiry Dateフィールドで同じ日付を選択してください。",
+    "step4.title": "保存する",
+    "step4.body": "すべての情報が一致していることを確認したら、<strong class=\"text-ink font-medium\">Save</strong> をタップしてください（手順2のマーカー4）。これでFHV保険証明書の手順は完了です。",
+    "tips.title": "保存する前に",
+    "tips.item1": "証明書の写真が鮮明で、十分な明るさがあり、4つの角がすべて写っていることを確認してください。",
+    "tips.item2": "入力したPolicy Numberが証明書に記載されている番号と完全に一致していることを再確認してください。文字が含まれている場合は、文字も正確に入力してください。",
+    "tips.item3": "保険の有効期限が切れていないことを確認してください — 期限が切れている場合は、まず保険会社から更新された証明書を取得する必要があります。",
+    "footer.help": "まだ問題がありますか？さらにサポートが必要な場合は、アプリ内からサポートにお問い合わせください。"
+  }
+}
