@@ -1,0 +1,31 @@
+{
+  "ja": {
+    "direction": "ltr",
+    "meta.title": "車両登録アップロードガイド",
+    "header.breadcrumb": "チュートリアル / 車両登録",
+    "page.eyebrow": "登録ガイド",
+    "page.title": "車両登録情報をアップロードする方法",
+    "page.intro": "アプリの車両登録ステップでお困りですか？以下の手順に従ってください。スクリーンショットの番号付きマーカーが、タップまたは入力する場所を正確に示しています。",
+    "step1.title": "Vehicles セクションを開く",
+    "step1.body": "登録アプリで <strong class=\"text-ink font-medium\">Vehicles</strong> セクションを開き、下にスクロールして <strong class=\"text-ink font-medium\">Vehicle Registration Details</strong> を開きます。",
+    "step2.title": "Vehicle Registration Details を入力する",
+    "step2.body": "以下の番号付きマーカーを順番に確認して、このセクションを完了してください。",
+    "legend.upload": "ここをタップして、車両登録カードの鮮明な写真をアップロードしてください。",
+    "legend.docnum": "車両のプレートに印刷されているとおりに、Plate Number を入力してください。",
+    "legend.expiry": "登録カードに記載されている有効期限を選択してください。",
+    "legend.save": "すべて正しいことを確認したら Save をタップしてください。",
+    "step3.title": "Plate Number を確認する",
+    "step3.body": "Plate Number は、下の画像のように車両の実際のナンバープレートに記載されています。<strong class=\"text-ink font-medium\">2</strong> のマーカーは、ステップ2のフォームにある同じ番号と一致します。",
+    "legend.platenum": "プレート番号 — これを Document Number フィールドに入力してください。",
+    "step4.title": "登録カードで有効期限を確認する",
+    "step4.body": "どこを見ればよいかわかりませんか？下の <strong class=\"text-ink font-medium\">3</strong> のマーカーは、ステップ2のフォームにある同じ情報と一致します。",
+    "legend.cardexpiry": "有効期限 — Expiry Date フィールドで同じ日付を選択してください。",
+    "step5.title": "保存する",
+    "step5.body": "すべて一致していることを確認したら、<strong class=\"text-ink font-medium\">Save</strong> をタップしてください（ステップ2のマーカー4）。これで Vehicle Registration のステップは完了です。",
+    "tips.title": "保存する前に",
+    "tips.item1": "登録カードの写真が鮮明で十分に明るく、4つの角がすべて写っていることを確認してください。",
+    "tips.item2": "入力した Plate Number が実際のナンバープレートおよび登録カードと完全に一致していることを再確認してください。",
+    "tips.item3": "登録の有効期限が切れていないことを確認してください。期限切れの場合は、まず州の DMV で更新する必要があります。",
+    "footer.help": "まだ問題がありますか？さらにサポートが必要な場合は、アプリ内からサポートにお問い合わせください。"
+  }
+}

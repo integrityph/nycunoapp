@@ -1,0 +1,31 @@
+{
+  "zh": {
+    "direction": "ltr",
+    "meta.title": "车辆注册上传指南",
+    "header.breadcrumb": "教程 / 车辆注册",
+    "page.eyebrow": "注册指南",
+    "page.title": "如何上传您的车辆注册信息",
+    "page.intro": "在应用中进行车辆注册时遇到问题？请按照以下步骤操作 — 截图中的每个编号标记都会准确告诉您需要点击或填写的位置。",
+    "step1.title": "进入车辆部分",
+    "step1.body": "在注册应用中打开 <strong class=\"text-ink font-medium\">车辆</strong> 部分，然后向下滚动到 <strong class=\"text-ink font-medium\">车辆注册详情</strong>。",
+    "step2.title": "填写车辆注册详情",
+    "step2.body": "按照下面的编号标记依次完成此部分。",
+    "legend.upload": "点击此处上传清晰的车辆注册卡照片。",
+    "legend.docnum": "在此输入您的车牌号码，必须与车牌上的打印内容完全一致。",
+    "legend.expiry": "选择注册卡上显示的到期日期。",
+    "legend.save": "确认所有信息正确后，点击保存。",
+    "step3.title": "找到您的车牌号码",
+    "step3.body": "您的车牌号码印在车辆实际的车牌上，如下图所示。标记 <strong class=\"text-ink font-medium\">2</strong> 与第 2 步表格中的相同号码对应。",
+    "legend.platenum": "车牌号码 — 将此号码填写到文档编号字段。",
+    "step4.title": "在注册卡上找到到期日期",
+    "step4.body": "不确定在哪里查看？下面的标记 <strong class=\"text-ink font-medium\">3</strong> 与第 2 步表格中的相应信息对应。",
+    "legend.cardexpiry": "到期日期 — 在到期日期字段中选择相同的日期。",
+    "step5.title": "保存",
+    "step5.body": "确认所有信息一致后，点击 <strong class=\"text-ink font-medium\">保存</strong>（第 2 步中的标记 4）。您的车辆注册步骤现已完成。",
+    "tips.title": "保存前",
+    "tips.item1": "确保注册卡照片清晰、光线充足，并且四个角都完整可见。",
+    "tips.item2": "再次确认您输入的车牌号码与实际车牌和注册卡上的号码完全一致。",
+    "tips.item3": "确认您的车辆注册尚未过期 — 如果已经过期，请先向所在州的 DMV 办理续期。",
+    "footer.help": "仍然遇到问题？请通过应用内的支持功能联系我们以获得进一步帮助。"
+  }
+}

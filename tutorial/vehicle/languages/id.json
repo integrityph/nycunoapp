@@ -1,0 +1,31 @@
+{
+  "id": {
+    "direction": "ltr",
+    "meta.title": "Panduan Unggah Registrasi Kendaraan",
+    "header.breadcrumb": "Tutorial / Registrasi Kendaraan",
+    "page.eyebrow": "Panduan registrasi",
+    "page.title": "Cara mengunggah Registrasi Kendaraan Anda",
+    "page.intro": "Mengalami masalah dengan langkah Registrasi Kendaraan di aplikasi? Ikuti langkah-langkah di bawah ini — setiap penanda bernomor pada tangkapan layar menunjukkan dengan tepat apa yang harus diketuk atau diisi.",
+    "step1.title": "Buka bagian Vehicles",
+    "step1.body": "Di aplikasi registrasi, buka bagian <strong class=\"text-ink font-medium\">Vehicles</strong> lalu gulir ke bawah ke <strong class=\"text-ink font-medium\">Vehicle Registration Details</strong>.",
+    "step2.title": "Isi Vehicle Registration Details",
+    "step2.body": "Ikuti penanda bernomor di bawah secara berurutan untuk menyelesaikan bagian ini.",
+    "legend.upload": "Ketuk di sini untuk mengunggah foto kartu registrasi kendaraan Anda yang jelas.",
+    "legend.docnum": "Ketik Plate Number Anda di sini, persis seperti yang tercetak pada pelat kendaraan.",
+    "legend.expiry": "Pilih tanggal kedaluwarsa yang tertera pada kartu registrasi Anda.",
+    "legend.save": "Ketuk Save setelah semuanya terlihat benar.",
+    "step3.title": "Temukan Plate Number Anda",
+    "step3.body": "Plate Number Anda tercetak pada pelat nomor kendaraan Anda, seperti yang ditunjukkan di bawah. Penanda <strong class=\"text-ink font-medium\">2</strong> sesuai dengan nomor yang sama pada formulir di langkah 2.",
+    "legend.platenum": "Nomor pelat — masukkan ini ke kolom Document Number.",
+    "step4.title": "Temukan tanggal kedaluwarsa pada kartu registrasi",
+    "step4.body": "Tidak yakin harus melihat di mana? Penanda <strong class=\"text-ink font-medium\">3</strong> di bawah sesuai dengan informasi yang sama pada formulir di langkah 2.",
+    "legend.cardexpiry": "Tanggal kedaluwarsa — pilih tanggal yang sama pada kolom Expiry Date.",
+    "step5.title": "Simpan",
+    "step5.body": "Setelah semuanya sesuai, ketuk <strong class=\"text-ink font-medium\">Save</strong> (penanda 4 pada langkah 2). Langkah Vehicle Registration Anda sekarang selesai.",
+    "tips.title": "Sebelum menyimpan",
+    "tips.item1": "Pastikan foto kartu registrasi jelas, memiliki pencahayaan yang baik, dan menampilkan keempat sudut.",
+    "tips.item2": "Periksa kembali bahwa Plate Number yang Anda masukkan sama persis dengan pelat kendaraan dan kartu registrasi Anda.",
+    "tips.item3": "Pastikan registrasi Anda belum kedaluwarsa — jika sudah, Anda harus memperbaruinya terlebih dahulu melalui DMV negara bagian Anda.",
+    "footer.help": "Masih mengalami masalah? Hubungi dukungan melalui aplikasi untuk mendapatkan bantuan lebih lanjut."
+  }
+}

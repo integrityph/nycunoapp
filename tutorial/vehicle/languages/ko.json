@@ -1,0 +1,31 @@
+{
+  "ko": {
+    "direction": "ltr",
+    "meta.title": "차량 등록 업로드 안내",
+    "header.breadcrumb": "튜토리얼 / 차량 등록",
+    "page.eyebrow": "등록 안내",
+    "page.title": "차량 등록 정보를 업로드하는 방법",
+    "page.intro": "앱에서 차량 등록 단계에 문제가 있나요? 아래 단계를 따라 하세요. 스크린샷의 각 번호 표시가 정확히 어디를 누르거나 입력해야 하는지 알려줍니다.",
+    "step1.title": "Vehicles 섹션으로 이동",
+    "step1.body": "등록 앱에서 <strong class=\"text-ink font-medium\">Vehicles</strong> 섹션을 열고 아래로 스크롤하여 <strong class=\"text-ink font-medium\">Vehicle Registration Details</strong>로 이동하세요.",
+    "step2.title": "Vehicle Registration Details 입력",
+    "step2.body": "아래의 번호 표시를 순서대로 따라 이 섹션을 완료하세요.",
+    "legend.upload": "여기를 눌러 차량 등록 카드의 선명한 사진을 업로드하세요.",
+    "legend.docnum": "차량 번호판에 표시된 그대로 번호판 번호를 입력하세요.",
+    "legend.expiry": "등록 카드에 표시된 만료일을 선택하세요.",
+    "legend.save": "모든 정보가 정확하면 Save를 누르세요.",
+    "step3.title": "번호판 번호 찾기",
+    "step3.body": "번호판 번호는 아래와 같이 차량의 실제 번호판에 표시되어 있습니다. <strong class=\"text-ink font-medium\">2</strong>번 표시는 2단계 양식의 동일한 번호와 일치합니다.",
+    "legend.platenum": "번호판 번호 — 이 번호를 Document Number 필드에 입력하세요.",
+    "step4.title": "등록 카드에서 만료일 찾기",
+    "step4.body": "어디에서 찾아야 할지 모르겠나요? 아래의 <strong class=\"text-ink font-medium\">3</strong>번 표시는 2단계 양식의 동일한 정보와 일치합니다.",
+    "legend.cardexpiry": "만료일 — Expiry Date 필드에서 동일한 날짜를 선택하세요.",
+    "step5.title": "저장",
+    "step5.body": "모든 정보가 일치하면 <strong class=\"text-ink font-medium\">Save</strong>를 누르세요(2단계의 4번 표시). 이제 차량 등록 단계가 완료되었습니다.",
+    "tips.title": "저장하기 전에",
+    "tips.item1": "등록 카드 사진이 선명하고 조명이 충분하며 네 모서리가 모두 보이는지 확인하세요.",
+    "tips.item2": "입력한 번호판 번호가 실제 번호판 및 등록 카드와 정확히 일치하는지 다시 확인하세요.",
+    "tips.item3": "등록이 만료되지 않았는지 확인하세요. 만료된 경우 먼저 해당 주의 DMV에서 갱신해야 합니다.",
+    "footer.help": "아직 문제가 있나요? 추가 지원이 필요하면 앱에서 지원팀에 문의하세요."
+  }
+}

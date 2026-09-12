@@ -1,0 +1,31 @@
+{
+  "pt": {
+    "direction": "ltr",
+    "meta.title": "Guia para enviar o registro do veículo",
+    "header.breadcrumb": "Tutoriais / Registro do veículo",
+    "page.eyebrow": "Guia de registro",
+    "page.title": "Como enviar o registro do seu veículo",
+    "page.intro": "Está com dificuldades na etapa de registro do veículo no aplicativo? Siga as etapas abaixo — cada marcador numerado nas capturas de tela mostra exatamente onde tocar ou o que preencher.",
+    "step1.title": "Vá para a seção Vehicles",
+    "step1.body": "No aplicativo de registro, abra a seção <strong class=\"text-ink font-medium\">Vehicles</strong> e role para baixo até <strong class=\"text-ink font-medium\">Vehicle Registration Details</strong>.",
+    "step2.title": "Preencha os detalhes do registro do veículo",
+    "step2.body": "Siga os marcadores numerados abaixo na ordem para concluir esta seção.",
+    "legend.upload": "Toque aqui para enviar uma foto nítida do cartão de registro do seu veículo.",
+    "legend.docnum": "Digite aqui o Plate Number exatamente como aparece na sua placa.",
+    "legend.expiry": "Selecione a data de validade mostrada no seu cartão de registro.",
+    "legend.save": "Toque em Save quando tudo estiver correto.",
+    "step3.title": "Encontre seu Plate Number",
+    "step3.body": "Seu Plate Number está impresso na placa física do seu veículo, conforme mostrado abaixo. O marcador <strong class=\"text-ink font-medium\">2</strong> corresponde ao mesmo número do formulário na etapa 2.",
+    "legend.platenum": "Número da placa — digite-o no campo Document Number.",
+    "step4.title": "Encontre a data de validade no cartão de registro",
+    "step4.body": "Não sabe onde procurar? O marcador <strong class=\"text-ink font-medium\">3</strong> abaixo corresponde à mesma informação do formulário na etapa 2.",
+    "legend.cardexpiry": "Data de validade — selecione essa mesma data no campo Expiry Date.",
+    "step5.title": "Salvar",
+    "step5.body": "Quando tudo estiver correto, toque em <strong class=\"text-ink font-medium\">Save</strong> (marcador 4 na etapa 2). A etapa de registro do veículo está concluída.",
+    "tips.title": "Antes de salvar",
+    "tips.item1": "Certifique-se de que a foto do cartão de registro esteja nítida, bem iluminada e mostre os quatro cantos.",
+    "tips.item2": "Verifique novamente se o Plate Number digitado corresponde exatamente à placa física e ao cartão de registro.",
+    "tips.item3": "Confirme que o registro não expirou — se tiver expirado, primeiro será necessário renová-lo junto ao DMV do seu estado.",
+    "footer.help": "Ainda está com dificuldades? Entre em contato com o suporte pelo aplicativo para obter mais ajuda."
+  }
+}

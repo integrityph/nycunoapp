@@ -1,0 +1,31 @@
+{
+  "vi": {
+    "direction": "ltr",
+    "meta.title": "Hướng dẫn tải lên đăng ký xe",
+    "header.breadcrumb": "Hướng dẫn / Đăng ký xe",
+    "page.eyebrow": "Hướng dẫn đăng ký",
+    "page.title": "Cách tải lên thông tin đăng ký xe của bạn",
+    "page.intro": "Bạn gặp khó khăn ở bước Đăng ký xe trong ứng dụng? Hãy làm theo các bước dưới đây — mỗi số đánh dấu trên ảnh chụp màn hình cho biết chính xác nơi cần nhấn hoặc thông tin cần điền.",
+    "step1.title": "Đi đến phần Vehicles",
+    "step1.body": "Trong ứng dụng đăng ký, mở phần <strong class=\"text-ink font-medium\">Vehicles</strong> và cuộn xuống <strong class=\"text-ink font-medium\">Vehicle Registration Details</strong>.",
+    "step2.title": "Điền thông tin Vehicle Registration Details",
+    "step2.body": "Làm theo các số đánh dấu bên dưới theo thứ tự để hoàn thành phần này.",
+    "legend.upload": "Nhấn vào đây để tải lên ảnh rõ nét của thẻ đăng ký xe.",
+    "legend.docnum": "Nhập Plate Number của bạn tại đây, chính xác như được in trên biển số xe.",
+    "legend.expiry": "Chọn ngày hết hạn được hiển thị trên thẻ đăng ký xe.",
+    "legend.save": "Nhấn Save khi mọi thông tin đã chính xác.",
+    "step3.title": "Tìm Plate Number của bạn",
+    "step3.body": "Plate Number được in trên biển số xe thực tế của bạn, như minh họa bên dưới. Số đánh dấu <strong class=\"text-ink font-medium\">2</strong> tương ứng với cùng số trong biểu mẫu ở bước 2.",
+    "legend.platenum": "Biển số xe — nhập số này vào trường Document Number.",
+    "step4.title": "Tìm ngày hết hạn trên thẻ đăng ký xe",
+    "step4.body": "Không chắc phải tìm ở đâu? Số đánh dấu <strong class=\"text-ink font-medium\">3</strong> bên dưới tương ứng với cùng thông tin trong biểu mẫu ở bước 2.",
+    "legend.cardexpiry": "Ngày hết hạn — chọn cùng ngày này trong trường Expiry Date.",
+    "step5.title": "Lưu",
+    "step5.body": "Khi mọi thông tin đã khớp, nhấn <strong class=\"text-ink font-medium\">Save</strong> (số đánh dấu 4 ở bước 2). Bước Vehicle Registration của bạn đã hoàn tất.",
+    "tips.title": "Trước khi lưu",
+    "tips.item1": "Đảm bảo ảnh thẻ đăng ký rõ nét, đủ sáng và hiển thị đầy đủ cả bốn góc.",
+    "tips.item2": "Kiểm tra lại rằng Plate Number bạn nhập khớp chính xác với biển số xe thực tế và thẻ đăng ký.",
+    "tips.item3": "Xác nhận đăng ký xe của bạn chưa hết hạn — nếu đã hết hạn, trước tiên bạn cần gia hạn tại DMV của tiểu bang.",
+    "footer.help": "Vẫn gặp khó khăn? Hãy liên hệ bộ phận hỗ trợ ngay trong ứng dụng để được trợ giúp thêm."
+  }
+}

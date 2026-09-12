@@ -1,0 +1,31 @@
+{
+  "yo": {
+    "direction": "ltr",
+    "meta.title": "Itọsọna Fifi Iforukọsilẹ Ọkọ silẹ",
+    "header.breadcrumb": "Awọn ẹkọ / Iforukọsilẹ Ọkọ",
+    "page.eyebrow": "Itọsọna iforukọsilẹ",
+    "page.title": "Bii o ṣe le gbe Iforukọsilẹ Ọkọ rẹ silẹ",
+    "page.intro": "Ṣe o n ni iṣoro pẹlu igbesẹ Iforukọsilẹ Ọkọ ninu app naa? Tẹle awọn igbesẹ ni isalẹ — ami nọmba kọọkan ninu awọn aworan iboju fihan gangan ohun ti o yẹ ki o tẹ tabi kun.",
+    "step1.title": "Lọ si apakan Vehicles",
+    "step1.body": "Ninu app iforukọsilẹ, ṣii apakan <strong class=\"text-ink font-medium\">Vehicles</strong> ki o si yi lọ si isalẹ si <strong class=\"text-ink font-medium\">Vehicle Registration Details</strong>.",
+    "step2.title": "Kun Vehicle Registration Details",
+    "step2.body": "Tẹle awọn ami nọmba ni isalẹ ni aṣẹ lati pari apakan yii.",
+    "legend.upload": "Tẹ ibi lati gbe fọto mimọ ti kaadi iforukọsilẹ ọkọ rẹ silẹ.",
+    "legend.docnum": "Tẹ Plate Number rẹ sii nibi, gẹgẹ bi o ti ṣe tẹ lori awo nọmba ọkọ rẹ.",
+    "legend.expiry": "Yan ọjọ ipari ti o han lori kaadi iforukọsilẹ rẹ.",
+    "legend.save": "Tẹ Save nigbati ohun gbogbo ba dabi pe o tọ.",
+    "step3.title": "Wa Plate Number rẹ",
+    "step3.body": "Plate Number rẹ wa lori awo nọmba gangan ti ọkọ rẹ, gẹgẹ bi a ṣe han ni isalẹ. Ami <strong class=\"text-ink font-medium\">2</strong> ba nọmba kanna mu ninu fọọmu ni igbesẹ 2.",
+    "legend.platenum": "Nọmba awo — tẹ eyi sinu aaye Document Number.",
+    "step4.title": "Wa ọjọ ipari lori kaadi iforukọsilẹ rẹ",
+    "step4.body": "Ko mọ ibi ti o yẹ ki o wo? Ami <strong class=\"text-ink font-medium\">3</strong> ni isalẹ ba alaye kanna mu ninu fọọmu ni igbesẹ 2.",
+    "legend.cardexpiry": "Ọjọ ipari — yan ọjọ kanna ninu aaye Expiry Date.",
+    "step5.title": "Fipamọ",
+    "step5.body": "Nigbati ohun gbogbo ba ba ara wọn mu, tẹ <strong class=\"text-ink font-medium\">Save</strong> (ami 4 ninu igbesẹ 2). Igbesẹ Vehicle Registration rẹ ti pari bayi.",
+    "tips.title": "Ṣaaju ki o to fipamọ",
+    "tips.item1": "Rii daju pe fọto kaadi iforukọsilẹ jẹ mimọ, ina rẹ dara, ati pe gbogbo igun mẹrin han.",
+    "tips.item2": "Ṣayẹwo lẹẹkansi pe Plate Number ti o tẹ ba awo ọkọ gangan ati kaadi iforukọsilẹ rẹ mu patapata.",
+    "tips.item3": "Jẹrisi pe iforukọsilẹ rẹ ko ti pari — ti o ba ti pari, iwọ yoo nilo lati tunse rẹ ni DMV ipinlẹ rẹ ni akọkọ.",
+    "footer.help": "Ṣe o tun n ni iṣoro? Kan si atilẹyin lati inu app fun iranlọwọ siwaju sii."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "tr": {
+    "direction": "ltr",
+    "meta.title": "Araç Tescili Yükleme Kılavuzu",
+    "header.breadcrumb": "Eğitimler / Araç Tescili",
+    "page.eyebrow": "Tescil kılavuzu",
+    "page.title": "Araç Tescilinizi nasıl yükleyebilirsiniz?",
+    "page.intro": "Uygulamadaki Araç Tescili adımında sorun mu yaşıyorsunuz? Aşağıdaki adımları izleyin — ekran görüntülerindeki numaralı işaretlerin her biri tam olarak nereye dokunmanız veya neyi doldurmanız gerektiğini gösterir.",
+    "step1.title": "Vehicles bölümüne gidin",
+    "step1.body": "Tescil uygulamasında <strong class=\"text-ink font-medium\">Vehicles</strong> bölümünü açın ve aşağı kaydırarak <strong class=\"text-ink font-medium\">Vehicle Registration Details</strong> bölümüne gidin.",
+    "step2.title": "Vehicle Registration Details bilgilerini doldurun",
+    "step2.body": "Bu bölümü tamamlamak için aşağıdaki numaralı işaretleri sırayla takip edin.",
+    "legend.upload": "Araç tescil kartınızın net bir fotoğrafını yüklemek için buraya dokunun.",
+    "legend.docnum": "Plate Number bilgilerinizi plakanızda yazdığı şekliyle buraya girin.",
+    "legend.expiry": "Tescil kartınızda gösterilen son geçerlilik tarihini seçin.",
+    "legend.save": "Her şey doğru göründüğünde Save'e dokunun.",
+    "step3.title": "Plate Number bilginizi bulun",
+    "step3.body": "Plate Number bilginiz, aşağıda gösterildiği gibi aracınızın fiziksel plakasının üzerinde yazılıdır. <strong class=\"text-ink font-medium\">2</strong> numaralı işaret, 2. adımdaki formdaki aynı numarayla eşleşir.",
+    "legend.platenum": "Plaka numarası — bunu Document Number alanına girin.",
+    "step4.title": "Tescil kartınızdaki son geçerlilik tarihini bulun",
+    "step4.body": "Nereden bakacağınızdan emin değil misiniz? Aşağıdaki <strong class=\"text-ink font-medium\">3</strong> numaralı işaret, 2. adımdaki formdaki aynı bilgiyle eşleşir.",
+    "legend.cardexpiry": "Son geçerlilik tarihi — aynı tarihi Expiry Date alanında seçin.",
+    "step5.title": "Kaydet",
+    "step5.body": "Her şey eşleştiğinde <strong class=\"text-ink font-medium\">Save</strong>'e dokunun (2. adımdaki 4 numaralı işaret). Araç Tescili adımınız artık tamamlandı.",
+    "tips.title": "Kaydetmeden önce",
+    "tips.item1": "Tescil kartı fotoğrafının net, iyi aydınlatılmış olduğundan ve dört köşesinin de göründüğünden emin olun.",
+    "tips.item2": "Girdiğiniz Plate Number bilgisinin fiziksel plakanız ve tescil kartınızla tamamen aynı olduğunu tekrar kontrol edin.",
+    "tips.item3": "Tescilinizin süresinin dolmadığını doğrulayın — dolduysa önce eyaletinizin DMV'si üzerinden yenilemeniz gerekir.",
+    "footer.help": "Hâlâ sorun mu yaşıyorsunuz? Daha fazla yardım için uygulama içinden destek ekibiyle iletişime geçin."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "sw": {
+    "direction": "ltr",
+    "meta.title": "Mwongozo wa Kupakia Usajili wa Gari",
+    "header.breadcrumb": "Mafunzo / Usajili wa Gari",
+    "page.eyebrow": "Mwongozo wa usajili",
+    "page.title": "Jinsi ya kupakia Usajili wa Gari lako",
+    "page.intro": "Unapata shida kwenye hatua ya Usajili wa Gari katika programu? Fuata hatua zilizo hapa chini — kila alama yenye nambari kwenye picha za skrini inaonyesha hasa mahali pa kubofya au kujaza.",
+    "step1.title": "Nenda kwenye sehemu ya Vehicles",
+    "step1.body": "Katika programu ya usajili, fungua sehemu ya <strong class=\"text-ink font-medium\">Vehicles</strong> na usogeze chini hadi <strong class=\"text-ink font-medium\">Vehicle Registration Details</strong>.",
+    "step2.title": "Jaza Vehicle Registration Details",
+    "step2.body": "Fuata alama zenye nambari hapa chini kwa mpangilio ili kukamilisha sehemu hii.",
+    "legend.upload": "Gusa hapa ili kupakia picha iliyo wazi ya kadi ya usajili wa gari lako.",
+    "legend.docnum": "Andika Plate Number yako hapa, kama ilivyochapishwa kwenye namba ya gari lako.",
+    "legend.expiry": "Chagua tarehe ya mwisho wa uhalali iliyoonyeshwa kwenye kadi yako ya usajili.",
+    "legend.save": "Gusa Save baada ya kuhakikisha kila kitu kiko sawa.",
+    "step3.title": "Tafuta Plate Number yako",
+    "step3.body": "Plate Number yako imechapishwa kwenye namba halisi ya gari lako, kama inavyoonyeshwa hapa chini. Alama <strong class=\"text-ink font-medium\">2</strong> inalingana na namba hiyo hiyo kwenye fomu ya hatua ya 2.",
+    "legend.platenum": "Namba ya gari — andika hii kwenye sehemu ya Document Number.",
+    "step4.title": "Tafuta tarehe ya mwisho wa uhalali kwenye kadi yako ya usajili",
+    "step4.body": "Hujui pa kuangalia? Alama <strong class=\"text-ink font-medium\">3</strong> hapa chini inalingana na taarifa hiyo hiyo kwenye fomu ya hatua ya 2.",
+    "legend.cardexpiry": "Tarehe ya mwisho wa uhalali — chagua tarehe hiyo hiyo kwenye sehemu ya Expiry Date.",
+    "step5.title": "Hifadhi",
+    "step5.body": "Baada ya kila kitu kulingana, gusa <strong class=\"text-ink font-medium\">Save</strong> (alama 4 katika hatua ya 2). Hatua yako ya Vehicle Registration sasa imekamilika.",
+    "tips.title": "Kabla ya kuhifadhi",
+    "tips.item1": "Hakikisha picha ya kadi ya usajili iko wazi, ina mwangaza mzuri, na inaonyesha pembe zote nne.",
+    "tips.item2": "Kagua tena kwamba Plate Number unayoandika inalingana kabisa na namba halisi ya gari na kadi yako ya usajili.",
+    "tips.item3": "Thibitisha kuwa usajili wako haujaisha muda — ikiwa umeisha, utahitaji kuufanya upya kwanza kupitia DMV ya jimbo lako.",
+    "footer.help": "Bado unapata shida? Wasiliana na usaidizi kupitia programu kwa msaada zaidi."
+  }
+}
