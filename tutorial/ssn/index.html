@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title data-i18n="meta.title">Social Security Number Upload Guide</title>
+  <meta name="description" content="Step-by-step guide for entering your Social Security Number during driver registration.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            bg: '#0E1310',
+            surface: '#161B15',
+            surface2: '#1D231C',
+            border: '#2B322A',
+            accent: '#8FE560',
+            accentDark: '#4E8A2E',
+            ink: '#F2F5EF',
+            muted: '#9CA69A',
+          },
+          fontFamily: {
+            sans: ['Manrope', 'sans-serif'],
+          },
+        },
+      },
+    };
+  </script>
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: 'Manrope', sans-serif;
+    }
+
+    .callout-num {
+      font-family: 'Manrope', sans-serif;
+    }
+
+    .lang-menu {
+      transform-origin: top left;
+    }
+  </style>
+</head>
+
+<body class="bg-bg text-ink antialiased">
+
+  <!-- Header -->
+  <header class="border-b border-border">
+    <div class="max-w-3xl mx-auto px-5 py-4 flex items-center justify-between">
+      <!-- Language picker (top-left) -->
+      <div class="relative min-w-44">
+        <button id="langBtn" aria-haspopup="true" aria-expanded="false" class="flex items-center gap-2 text-sm text-muted hover:text-ink border border-border rounded-md px-3 py-1.5 transition-colors">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="9"></circle>
+            <path d="M3 12h18M12 3c2.5 2.8 3.8 6 3.8 9s-1.3 6.2-3.8 9c-2.5-2.8-3.8-6-3.8-9s1.3-6.2 3.8-9z"></path>
+          </svg>
+          <span id="langBtnLabel">English</span>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polyline points="6 9 12 15 18 9"></polyline>
+          </svg>
+        </button>
+
+        <div id="langMenu"
+          class="lang-menu absolute left-0 mt-2 w-44 bg-surface2 border border-border rounded-md shadow-lg overflow-hidden z-20 hidden"
+          role="menu">
+
+          <button data-lang="en"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between text-accent"
+            role="menuitem">
+            <span>English</span>
+          </button>
+
+          <button data-lang="ar"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Arabic</span>
+          </button>
+
+          <button data-lang="bn"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Bengali</span>
+          </button>
+
+          <button data-lang="zh"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Chinese (Mandarin)</span>
+          </button>
+
+          <button data-lang="ko"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Korean</span>
+          </button>
+
+          <button data-lang="de"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>German</span>
+          </button>
+
+          <button data-lang="el"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Greek</span>
+          </button>
+
+          <button data-lang="hi"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Hindi</span>
+          </button>
+
+          <button data-lang="id"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Indonesian</span>
+          </button>
+
+          <button data-lang="ja"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Japanese</span>
+          </button>
+
+          <button data-lang="yo"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Yoruba</span>
+          </button>
+
+          <button data-lang="fa"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Persian (Farsi)</span>
+          </button>
+
+          <button data-lang="pt"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Portuguese</span>
+          </button>
+
+          <button data-lang="ru"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Russian</span>
+          </button>
+
+          <button data-lang="es"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Spanish</span>
+          </button>
+
+          <button data-lang="sw"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Swahili</span>
+          </button>
+
+          <button data-lang="th"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Thai</span>
+          </button>
+
+          <button data-lang="tr"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Turkish</span>
+          </button>
+
+          <button data-lang="ur"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Urdu</span>
+          </button>
+
+          <button data-lang="vi"
+            class="lang-option w-full text-left px-3.5 py-2.5 text-sm hover:bg-surface flex items-center justify-between"
+            role="menuitem">
+            <span>Vietnamese</span>
+          </button>
+
+        </div>
+      </div>
+      <p class="text-xs text-muted" data-i18n="header.breadcrumb">Tutorials / Social Security Number</p>
+    </div>
+  </header>
+
+  <main class="max-w-3xl mx-auto px-5 pt-10 pb-24">
+
+    <p class="text-xs uppercase tracking-wide text-accent mb-3 font-medium" data-i18n="page.eyebrow">Registration guide</p>
+    <h1 class="text-3xl sm:text-4xl font-extrabold leading-tight mb-4" data-i18n="page.title">
+      How to upload your Social Security Number
+    </h1>
+    <p class="text-muted text-base leading-relaxed max-w-xl mb-12" data-i18n="page.intro">
+      Having trouble with the Social Security step in the app? Follow the steps below — each numbered marker on the screenshots shows exactly what to tap or fill in.
+    </p>
+
+    <ol class="relative list-none">
+      <div class="absolute left-[19px] top-2 bottom-2 w-px bg-border" aria-hidden="true"></div>
+
+      <!-- Step 1 -->
+      <li class="relative pl-14 pb-10">
+        <span class="absolute left-0 top-0 w-10 h-10 rounded-full bg-surface2 border border-border flex items-center justify-center text-sm font-bold text-accent">1</span>
+        <h2 class="text-lg font-bold mb-2" data-i18n="step1.title">Go to the Document section</h2>
+        <p class="text-muted leading-relaxed" data-i18n="step1.body">In the registration app, open the <strong class="text-ink font-medium">Document</strong> section. You'll see a card labeled <strong class="text-ink font-medium">Social Security...</strong></p>
+      </li>
+
+      <!-- Step 2: annotated screenshot -->
+      <li class="relative pl-14 pb-10">
+        <span class="absolute left-0 top-0 w-10 h-10 rounded-full bg-surface2 border border-border flex items-center justify-center text-sm font-bold text-accent">2</span>
+        <h2 class="text-lg font-bold mb-2" data-i18n="step2.title">Tap Social Security and fill in the details</h2>
+        <p class="text-muted leading-relaxed mb-5" data-i18n="step2.body">Tap the <strong class="text-ink font-medium">Social Security</strong> card to open the form, then follow the numbered markers below in order.</p>
+
+        <div class="bg-surface2 border border-border rounded-xl p-4 max-w-xs">
+          <div class="relative w-full">
+            <img src="/tutorial/ssn/document_step.jpg" alt="App screen showing the Social Security Number form, with numbered markers over the Social Security card, photo upload box, document number field, and save button" class="rounded-lg w-full block border border-border">
+            <svg class="absolute inset-0 w-full h-full" viewBox="0 0 635 1376" preserveAspectRatio="none" aria-hidden="true">
+              <!-- 1: Social Security card -->
+              <rect x="325" y="145" width="280" height="163" rx="10" fill="#8FE560" fill-opacity="0.12" stroke="#8FE560" stroke-width="4" stroke-dasharray="10 7"></rect>
+              <line x1="611" y1="131" x2="605" y2="145" stroke="#8FE560" stroke-width="4"></line>
+              <circle cx="618" cy="131" r="17" fill="#8FE560"></circle>
+              <text x="618" y="137" text-anchor="middle" font-size="19" font-weight="800" fill="#0E1310" class="callout-num">1</text>
+
+              <!-- 2: Photo upload box -->
+              <rect x="28" y="1030" width="270" height="175" rx="10" fill="#8FE560" fill-opacity="0.12" stroke="#8FE560" stroke-width="4" stroke-dasharray="10 7"></rect>
+              <line x1="14" y1="1016" x2="28" y2="1030" stroke="#8FE560" stroke-width="4"></line>
+              <circle cx="14" cy="1016" r="17" fill="#8FE560"></circle>
+              <text x="14" y="1022" text-anchor="middle" font-size="19" font-weight="800" fill="#0E1310" class="callout-num">2</text>
+
+              <!-- 3: Document Number field -->
+              <rect x="328" y="1040" width="280" height="55" rx="8" fill="#8FE560" fill-opacity="0.12" stroke="#8FE560" stroke-width="4" stroke-dasharray="10 7"></rect>
+              <line x1="314" y1="1026" x2="328" y2="1040" stroke="#8FE560" stroke-width="4"></line>
+              <circle cx="314" cy="1026" r="17" fill="#8FE560"></circle>
+              <text x="314" y="1032" text-anchor="middle" font-size="19" font-weight="800" fill="#0E1310" class="callout-num">3</text>
+
+              <!-- 4: Save button -->
+              <rect x="28" y="1235" width="270" height="55" rx="8" fill="#8FE560" fill-opacity="0.12" stroke="#8FE560" stroke-width="4" stroke-dasharray="10 7"></rect>
+              <line x1="14" y1="1221" x2="28" y2="1235" stroke="#8FE560" stroke-width="4"></line>
+              <circle cx="14" cy="1221" r="17" fill="#8FE560"></circle>
+              <text x="14" y="1227" text-anchor="middle" font-size="19" font-weight="800" fill="#0E1310" class="callout-num">4</text>
+            </svg>
+          </div>
+
+          <ol class="mt-4 space-y-2.5 text-sm">
+            <li class="flex gap-2.5">
+              <span class="shrink-0 w-5 h-5 rounded-full bg-accent text-bg text-xs font-extrabold flex items-center justify-center mt-0.5">1</span>
+              <span class="text-muted" data-i18n="legend.tap">Tap this card to open the Social Security form.</span>
+            </li>
+            <li class="flex gap-2.5">
+              <span class="shrink-0 w-5 h-5 rounded-full bg-accent text-bg text-xs font-extrabold flex items-center justify-center mt-0.5">2</span>
+              <span class="text-muted" data-i18n="legend.upload">Tap here to upload a clear photo of yourself — this is a photo of you, not of a document.</span>
+            </li>
+            <li class="flex gap-2.5">
+              <span class="shrink-0 w-5 h-5 rounded-full bg-accent text-bg text-xs font-extrabold flex items-center justify-center mt-0.5">3</span>
+              <span class="text-muted" data-i18n="legend.docnum">Type your 9-digit Social Security Number here.</span>
+            </li>
+            <li class="flex gap-2.5">
+              <span class="shrink-0 w-5 h-5 rounded-full bg-accent text-bg text-xs font-extrabold flex items-center justify-center mt-0.5">4</span>
+              <span class="text-muted" data-i18n="legend.save">Tap Save once everything looks correct.</span>
+            </li>
+          </ol>
+        </div>
+      </li>
+
+      <!-- Step 3: annotated SSN card sample -->
+      <li class="relative pl-14 pb-10">
+        <span class="absolute left-0 top-0 w-10 h-10 rounded-full bg-surface2 border border-border flex items-center justify-center text-sm font-bold text-accent">3</span>
+        <h2 class="text-lg font-bold mb-2" data-i18n="step3.title">Find your Social Security Number</h2>
+        <p class="text-muted leading-relaxed mb-5" data-i18n="step3.body">Not sure where to look? Your number is printed on your Social Security card, as shown below. Marker <strong class="text-ink font-medium">3</strong> matches the same number from the form in step 2.</p>
+
+        <div class="bg-surface2 border border-border rounded-xl p-4 max-w-sm">
+          <div class="relative w-full">
+            <img src="/tutorial/ssn/ssn-card-sample.jpg" alt="Sample Social Security card with a numbered marker over the 9-digit Social Security number" class="rounded-lg w-full block border border-border">
+            <svg class="absolute inset-0 w-full h-full" viewBox="0 0 299 169" preserveAspectRatio="none" aria-hidden="true">
+              <rect x="62" y="60" width="178" height="24" rx="6" fill="#8FE560" fill-opacity="0.16" stroke="#8FE560" stroke-width="2.5" stroke-dasharray="7 5"></rect>
+              <line x1="53" y1="53" x2="62" y2="62" stroke="#8FE560" stroke-width="2.5"></line>
+              <circle cx="45" cy="46" r="12" fill="#8FE560"></circle>
+              <text x="45" y="51.5" text-anchor="middle" font-size="14" font-weight="800" fill="#0E1310" class="callout-num">3</text>
+            </svg>
+          </div>
+          <p class="text-xs text-muted mt-3 text-center" data-i18n="step3.caption">Sample Social Security card — the 9-digit number is near the top</p>
+        </div>
+      </li>
+
+      <!-- Step 4: Save -->
+      <li class="relative pl-14 pb-10">
+        <span class="absolute left-0 top-0 w-10 h-10 rounded-full bg-surface2 border border-border flex items-center justify-center text-sm font-bold text-accent">4</span>
+        <h2 class="text-lg font-bold mb-2" data-i18n="step4.title">Save</h2>
+        <p class="text-muted leading-relaxed" data-i18n="step4.body">Once your photo and number are both entered, tap <strong class="text-ink font-medium">Save</strong> (marker 4 in step 2). Your Social Security step is now complete.</p>
+      </li>
+    </ol>
+
+    <!-- Tips box -->
+    <div class="mt-4 bg-surface border border-border rounded-xl p-6">
+      <h3 class="font-bold mb-3 flex items-center gap-2">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-accent shrink-0" aria-hidden="true">
+          <circle cx="12" cy="12" r="10"></circle>
+          <line x1="12" y1="16" x2="12" y2="12"></line>
+          <line x1="12" y1="8" x2="12.01" y2="8"></line>
+        </svg>
+        <span data-i18n="tips.title">Before you save</span>
+      </h3>
+      <ul class="space-y-2 text-sm text-muted">
+        <li class="flex gap-2"><span class="text-accent">&bull;</span><span data-i18n="tips.item1">Use a clear, recent photo of yourself — good lighting, no sunglasses or hats, and your face fully visible.</span></li>
+        <li class="flex gap-2"><span class="text-accent">&bull;</span><span data-i18n="tips.item2">Double-check your 9-digit Social Security Number before saving — it must be entered correctly for your tax forms to process.</span></li>
+        <li class="flex gap-2"><span class="text-accent">&bull;</span><span data-i18n="tips.item3">Your Social Security Number is sensitive personal information — only enter it on a private, secure connection.</span></li>
+      </ul>
+    </div>
+
+    <p class="mt-10 text-sm text-muted" data-i18n="footer.help">
+      Still having trouble? Contact support from within the app for further assistance.
+    </p>
+
+  </main>
+
+  <script type="module">
+    const langNames = {
+      en: "English",
+      ar: "Arabic",
+      bn: "Bengali",
+      zh: "Chinese (Mandarin)",
+      ko: "Korean",
+      de: "German",
+      el: "Greek",
+      hi: "Hindi",
+      id: "Indonesian",
+      ja: "Japanese",
+      yo: "Yoruba",
+      fa: "Persian (Farsi)",
+      pt: "Portuguese",
+      ru: "Russian",
+      es: "Spanish",
+      sw: "Swahili",
+      th: "Thai",
+      tr: "Turkish",
+      ur: "Urdu",
+      vi: "Vietnamese"
+    };
+
+    const STORAGE_KEY = "tutorialLang";
+
+    // Load only the JSON file for the selected language
+    async function loadTranslations(lang) {
+      try {
+        const response = await fetch(`/tutorial/ssn/languages/${lang}.json`);
+        if (!response.ok) {
+          throw new Error(`Could not load ${lang}.json`);
+        }
+
+        return await response.json();
+      } catch (error) {
+        console.error(error);
+
+        // Fall back to English if the requested language fails
+        if (lang !== "en") {
+          const response = await fetch("/tutorial/ssn/languages/en.json");
+          return await response.json();
+        }
+
+        return {};
+      }
+    }
+
+    async function applyLanguage(lang) {
+      // Make sure the language exists
+      if (!langNames[lang]) {
+        lang = "en";
+      }
+      // Load ONLY this language's JSON file
+      const dict = await loadTranslations(lang);
+
+
+      // Apply translations
+      document.querySelectorAll("[data-i18n]").forEach(el => {
+        const key = el.getAttribute("data-i18n");
+
+        if (dict[lang][key] !== undefined) {
+          el.innerHTML = dict[lang][key];
+        }
+      });
+
+      // Apply language and text direction
+      document.documentElement.lang = lang;
+      document.documentElement.dir = dict[lang].direction || "ltr";
+
+      // Update page title
+      if (dict[lang]["meta.title"]) {
+        document.title = dict[lang]["meta.title"];
+      }
+
+      // Update language button
+      document.getElementById("langBtnLabel").textContent =
+        langNames[lang];
+
+      // Highlight currently selected language
+      document.querySelectorAll(".lang-option").forEach(btn => {
+        btn.classList.toggle(
+          "text-accent",
+          btn.dataset.lang === lang
+        );
+      });
+
+      // Save selected language
+      try {
+        localStorage.setItem(STORAGE_KEY, lang);
+      } catch (e) {
+        console.warn("Could not save language preference.");
+      }
+    }
+
+    function getInitialLanguage() {
+      try {
+        return localStorage.getItem(STORAGE_KEY) || "en";
+      } catch (e) {
+        return "en";
+      }
+    }
+
+    document.addEventListener("DOMContentLoaded", async () => {
+      // Load saved language
+      await applyLanguage(getInitialLanguage());
+
+      const langBtn = document.getElementById("langBtn");
+      const langMenu = document.getElementById("langMenu");
+
+      // Open / close language menu
+      langBtn.addEventListener("click", () => {
+        const isOpen = !langMenu.classList.contains("hidden");
+
+        langMenu.classList.toggle("hidden");
+        langBtn.setAttribute(
+          "aria-expanded",
+          String(!isOpen)
+        );
+      });
+
+      // Language selection
+      document.querySelectorAll(".lang-option").forEach(btn => {
+        btn.addEventListener("click", async () => {
+          const lang = btn.dataset.lang;
+
+          // Load selected language
+          await applyLanguage(lang);
+
+          // Close menu
+          langMenu.classList.add("hidden");
+          langBtn.setAttribute("aria-expanded", "false");
+        });
+      });
+
+      // Close menu when clicking outside
+      document.addEventListener("click", e => {
+        if (
+          !langBtn.contains(e.target) &&
+          !langMenu.contains(e.target)
+        ) {
+          langMenu.classList.add("hidden");
+          langBtn.setAttribute("aria-expanded", "false");
+        }
+      });
+    });
+  </script>
+
+</body>
+
+</html>

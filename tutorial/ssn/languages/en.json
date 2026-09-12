@@ -1,0 +1,27 @@
+{
+  "en": {
+    "meta.title": "Social Security Number Upload Guide",
+    "header.breadcrumb": "Tutorials / Social Security Number",
+    "page.eyebrow": "Registration guide",
+    "page.title": "How to upload your Social Security Number",
+    "page.intro": "Having trouble with the Social Security step in the app? Follow the steps below — each numbered marker on the screenshots shows exactly what to tap or fill in.",
+    "step1.title": "Go to the Document section",
+    "step1.body": "In the registration app, open the <strong class=\"text-ink font-medium\">Document</strong> section. You'll see a card labeled <strong class=\"text-ink font-medium\">Social Security...</strong>",
+    "step2.title": "Tap Social Security and fill in the details",
+    "step2.body": "Tap the <strong class=\"text-ink font-medium\">Social Security</strong> card to open the form, then follow the numbered markers below in order.",
+    "step3.title": "Find your Social Security Number",
+    "step3.body": "Not sure where to look? Your number is printed on your Social Security card, as shown below. Marker <strong class=\"text-ink font-medium\">3</strong> matches the same number from the form in step 2.",
+    "step3.caption": "Sample Social Security card — the 9-digit number is near the top",
+    "step4.title": "Save",
+    "step4.body": "Once your photo and number are both entered, tap <strong class=\"text-ink font-medium\">Save</strong> (marker 4 in step 2). Your Social Security step is now complete.",
+    "legend.tap": "Tap this card to open the Social Security form.",
+    "legend.upload": "Tap here to upload a clear photo of yourself — this is a photo of you, not of a document.",
+    "legend.docnum": "Type your 9-digit Social Security Number here.",
+    "legend.save": "Tap Save once everything looks correct.",
+    "tips.title": "Before you save",
+    "tips.item1": "Use a clear, recent photo of yourself — good lighting, no sunglasses or hats, and your face fully visible.",
+    "tips.item2": "Double-check your 9-digit Social Security Number before saving — it must be entered correctly for your tax forms to process.",
+    "tips.item3": "Your Social Security Number is sensitive personal information — only enter it on a private, secure connection.",
+    "footer.help": "Still having trouble? Contact support from within the app for further assistance."
+  }
+}
