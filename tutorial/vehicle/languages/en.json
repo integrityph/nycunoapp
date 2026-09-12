@@ -1,0 +1,31 @@
+{
+  "en": {
+    "direction": "ltr",
+    "meta.title": "Vehicle Registration Upload Guide",
+    "header.breadcrumb": "Tutorials / Vehicle Registration",
+    "page.eyebrow": "Registration guide",
+    "page.title": "How to upload your Vehicle Registration",
+    "page.intro": "Having trouble with the Vehicle Registration step in the app? Follow the steps below — each numbered marker on the screenshots shows exactly what to tap or fill in.",
+    "step1.title": "Go to the Vehicles section",
+    "step1.body": "In the registration app, open the <strong class=\"text-ink font-medium\">Vehicles</strong> section and scroll down to <strong class=\"text-ink font-medium\">Vehicle Registration Details</strong>.",
+    "step2.title": "Fill in the Vehicle Registration Details",
+    "step2.body": "Follow the numbered markers below in order to complete this section.",
+    "legend.upload": "Tap here to upload a clear photo of your vehicle registration card.",
+    "legend.docnum": "Type your Plate Number here, exactly as printed on your plate.",
+    "legend.expiry": "Select the expiry date shown on your registration card.",
+    "legend.save": "Tap Save once everything looks correct.",
+    "step3.title": "Find your Plate Number",
+    "step3.body": "Your Plate Number is printed on your vehicle's physical license plate, as shown below. Marker <strong class=\"text-ink font-medium\">2</strong> matches the same number from the form in step 2.",
+    "legend.platenum": "Plate number — type this into the Document Number field.",
+    "step4.title": "Find the expiry date on your registration card",
+    "step4.body": "Not sure where to look? Marker <strong class=\"text-ink font-medium\">3</strong> below matches the same number from the form in step 2.",
+    "legend.cardexpiry": "Expiry date — select this same date in the Expiry Date field.",
+    "step5.title": "Save",
+    "step5.body": "Once everything matches, tap <strong class=\"text-ink font-medium\">Save</strong> (marker 4 in step 2). Your Vehicle Registration step is now complete.",
+    "tips.title": "Before you save",
+    "tips.item1": "Make sure the registration card photo is clear, well-lit, and shows all four corners.",
+    "tips.item2": "Double-check that the Plate Number you type matches your physical plate and registration card exactly.",
+    "tips.item3": "Confirm your registration hasn't expired — you'll need to renew it with your state DMV first if it has.",
+    "footer.help": "Still having trouble? Contact support from within the app for further assistance."
+  }
+}
