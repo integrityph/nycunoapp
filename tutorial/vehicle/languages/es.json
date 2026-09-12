@@ -11,11 +11,11 @@
     "step2.title": "Complete los detalles del registro del vehículo",
     "step2.body": "Siga los marcadores numerados de abajo en orden para completar esta sección.",
     "legend.upload": "Toque aquí para subir una foto clara de la tarjeta de registro de su vehículo.",
-    "legend.docnum": "Escriba aquí su número de placa, exactamente como aparece impreso en su placa.",
+    "legend.docnum": "Escriba aquí su Plate Number, exactamente como aparece impreso en su placa.",
     "legend.expiry": "Seleccione la fecha de vencimiento que aparece en su tarjeta de registro.",
     "legend.save": "Toque Save cuando todo parezca correcto.",
-    "step3.title": "Encuentre su número de placa",
-    "step3.body": "Su número de placa está impreso en la placa física de su vehículo, como se muestra abajo. El marcador <strong class=\"text-ink font-medium\">2</strong> coincide con el mismo número del formulario del paso 2.",
+    "step3.title": "Encuentre su Plate Number",
+    "step3.body": "Su Plate Number está impreso en la placa física de su vehículo, como se muestra abajo. El marcador <strong class=\"text-ink font-medium\">2</strong> coincide con el mismo número del formulario del paso 2.",
     "legend.platenum": "Número de placa — escríbalo en el campo Document Number.",
     "step4.title": "Encuentre la fecha de vencimiento en su tarjeta de registro",
     "step4.body": "¿No está seguro de dónde buscar? El marcador <strong class=\"text-ink font-medium\">3</strong> de abajo coincide con la misma información del formulario del paso 2.",
@@ -24,7 +24,7 @@
     "step5.body": "Cuando todo coincida, toque <strong class=\"text-ink font-medium\">Save</strong> (marcador 4 del paso 2). El paso de Registro del vehículo ya está completo.",
     "tips.title": "Antes de guardar",
     "tips.item1": "Asegúrese de que la foto de la tarjeta de registro sea clara, esté bien iluminada y muestre las cuatro esquinas.",
-    "tips.item2": "Compruebe que el número de placa que escribe coincida exactamente con la placa física y la tarjeta de registro.",
+    "tips.item2": "Compruebe que el Plate Number que escribe coincida exactamente con la placa física y la tarjeta de registro.",
     "tips.item3": "Confirme que su registro no haya vencido — si ha vencido, primero deberá renovarlo con el DMV de su estado.",
     "footer.help": "¿Sigue teniendo problemas? Contacte con soporte desde la aplicación para obtener más ayuda."
   }
