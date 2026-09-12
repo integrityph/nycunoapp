@@ -1,0 +1,27 @@
+{
+  "tr": {
+    "meta.title": "Sosyal Güvenlik Numarası Yükleme Rehberi",
+    "header.breadcrumb": "Eğitimler / Sosyal Güvenlik Numarası",
+    "page.eyebrow": "Kayıt rehberi",
+    "page.title": "Sosyal Güvenlik Numaranızı nasıl yükleyebilirsiniz?",
+    "page.intro": "Uygulamadaki Sosyal Güvenlik adımında sorun mu yaşıyorsunuz? Aşağıdaki adımları izleyin — ekran görüntülerindeki numaralı işaretlerin her biri, tam olarak nereye dokunmanız veya neyi doldurmanız gerektiğini gösterir.",
+    "step1.title": "Document bölümüne gidin",
+    "step1.body": "Kayıt uygulamasında <strong class=\"text-ink font-medium\">Document</strong> bölümünü açın. <strong class=\"text-ink font-medium\">Social Security...</strong> etiketli bir kart göreceksiniz.",
+    "step2.title": "Social Security'ye dokunun ve bilgileri doldurun",
+    "step2.body": "Formu açmak için <strong class=\"text-ink font-medium\">Social Security</strong> kartına dokunun, ardından aşağıdaki numaralı işaretleri sırayla takip edin.",
+    "step3.title": "Sosyal Güvenlik Numaranızı bulun",
+    "step3.body": "Nerede bulacağınızdan emin değil misiniz? Numaranız, aşağıda gösterildiği gibi Sosyal Güvenlik kartınızın üzerinde yazılıdır. <strong class=\"text-ink font-medium\">3</strong> numaralı işaret, 2. adımdaki formda bulunan aynı numarayı gösterir.",
+    "step3.caption": "Örnek Sosyal Güvenlik kartı — 9 haneli numara üst kısma yakın bir yerde bulunur",
+    "step4.title": "Kaydedin",
+    "step4.body": "Fotoğrafınızı ve numaranızı girdikten sonra <strong class=\"text-ink font-medium\">Save</strong> düğmesine dokunun (2. adımdaki 4 numaralı işaret). Sosyal Güvenlik adımınız artık tamamlandı.",
+    "legend.tap": "Sosyal Güvenlik formunu açmak için bu karta dokunun.",
+    "legend.upload": "Kendinize ait net bir fotoğraf yüklemek için buraya dokunun — bu, bir belge fotoğrafı değil, sizin fotoğrafınız olmalıdır.",
+    "legend.docnum": "9 haneli Sosyal Güvenlik Numaranızı buraya girin.",
+    "legend.save": "Her şey doğru göründüğünde Save düğmesine dokunun.",
+    "tips.title": "Kaydetmeden önce",
+    "tips.item1": "Kendinize ait net ve yakın zamanda çekilmiş bir fotoğraf kullanın — iyi aydınlatılmış, güneş gözlüğü veya şapka olmadan ve yüzünüz tamamen görünür olmalıdır.",
+    "tips.item2": "Kaydetmeden önce 9 haneli Sosyal Güvenlik Numaranızı tekrar kontrol edin — vergi formlarınızın işleme alınabilmesi için numaranın doğru girilmesi gerekir.",
+    "tips.item3": "Sosyal Güvenlik Numaranız hassas kişisel bilgiler içerir — yalnızca özel ve güvenli bir bağlantı üzerinden girin.",
+    "footer.help": "Hâlâ sorun mu yaşıyorsunuz? Daha fazla yardım almak için uygulama üzerinden destek ekibiyle iletişime geçin."
+  }
+}

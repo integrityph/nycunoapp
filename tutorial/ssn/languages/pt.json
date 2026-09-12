@@ -1,0 +1,27 @@
+{
+  "pt": {
+    "meta.title": "Guia para Enviar o Número de Segurança Social",
+    "header.breadcrumb": "Tutoriais / Número de Segurança Social",
+    "page.eyebrow": "Guia de registo",
+    "page.title": "Como enviar o seu Número de Segurança Social",
+    "page.intro": "Está a ter dificuldades com a etapa do Número de Segurança Social na aplicação? Siga os passos abaixo — cada marcador numerado nas capturas de ecrã mostra exatamente onde tocar ou o que preencher.",
+    "step1.title": "Aceda à secção Document",
+    "step1.body": "Na aplicação de registo, abra a secção <strong class=\"text-ink font-medium\">Document</strong>. Verá um cartão com a indicação <strong class=\"text-ink font-medium\">Social Security...</strong>.",
+    "step2.title": "Toque em Social Security e preencha os dados",
+    "step2.body": "Toque no cartão <strong class=\"text-ink font-medium\">Social Security</strong> para abrir o formulário e, em seguida, siga os marcadores numerados abaixo pela ordem indicada.",
+    "step3.title": "Encontre o seu Número de Segurança Social",
+    "step3.body": "Não sabe onde procurar? O seu número está impresso no seu cartão de Segurança Social, conforme mostrado abaixo. O marcador <strong class=\"text-ink font-medium\">3</strong> corresponde ao mesmo número apresentado no formulário do passo 2.",
+    "step3.caption": "Exemplo de um cartão de Segurança Social — o número de 9 dígitos encontra-se perto da parte superior",
+    "step4.title": "Guardar",
+    "step4.body": "Depois de introduzir a sua fotografia e o seu número, toque em <strong class=\"text-ink font-medium\">Save</strong> (marcador 4 no passo 2). A etapa do Número de Segurança Social está agora concluída.",
+    "legend.tap": "Toque neste cartão para abrir o formulário do Número de Segurança Social.",
+    "legend.upload": "Toque aqui para enviar uma fotografia nítida sua — esta é uma fotografia sua, não de um documento.",
+    "legend.docnum": "Introduza aqui o seu Número de Segurança Social de 9 dígitos.",
+    "legend.save": "Toque em Save quando tudo estiver correto.",
+    "tips.title": "Antes de guardar",
+    "tips.item1": "Utilize uma fotografia sua nítida e recente — com boa iluminação, sem óculos de sol ou chapéu e com o rosto totalmente visível.",
+    "tips.item2": "Verifique novamente o seu Número de Segurança Social de 9 dígitos antes de guardar — este deve ser introduzido corretamente para que os seus formulários fiscais possam ser processados.",
+    "tips.item3": "O seu Número de Segurança Social é uma informação pessoal sensível — introduza-o apenas através de uma ligação privada e segura.",
+    "footer.help": "Continua com dificuldades? Contacte o suporte através da aplicação para obter mais assistência."
+  }
+}

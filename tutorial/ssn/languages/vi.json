@@ -1,0 +1,27 @@
+{
+  "vi": {
+    "meta.title": "Hướng dẫn tải lên Số An sinh Xã hội",
+    "header.breadcrumb": "Hướng dẫn / Số An sinh Xã hội",
+    "page.eyebrow": "Hướng dẫn đăng ký",
+    "page.title": "Cách tải lên Số An sinh Xã hội của bạn",
+    "page.intro": "Bạn gặp khó khăn với bước Số An sinh Xã hội trong ứng dụng? Hãy làm theo các bước dưới đây — mỗi dấu đánh số trên ảnh chụp màn hình sẽ cho bạn biết chính xác cần nhấn vào đâu hoặc điền thông tin gì.",
+    "step1.title": "Đi đến phần Document",
+    "step1.body": "Trong ứng dụng đăng ký, mở phần <strong class=\"text-ink font-medium\">Document</strong>. Bạn sẽ thấy một thẻ có nhãn <strong class=\"text-ink font-medium\">Social Security...</strong>.",
+    "step2.title": "Nhấn vào Social Security và điền thông tin",
+    "step2.body": "Nhấn vào thẻ <strong class=\"text-ink font-medium\">Social Security</strong> để mở biểu mẫu, sau đó làm theo các dấu đánh số bên dưới theo đúng thứ tự.",
+    "step3.title": "Tìm Số An sinh Xã hội của bạn",
+    "step3.body": "Không chắc phải tìm ở đâu? Số của bạn được in trên thẻ An sinh Xã hội, như minh họa bên dưới. Dấu <strong class=\"text-ink font-medium\">3</strong> tương ứng với chính số đó trong biểu mẫu ở bước 2.",
+    "step3.caption": "Mẫu thẻ An sinh Xã hội — số gồm 9 chữ số nằm gần phía trên",
+    "step4.title": "Lưu",
+    "step4.body": "Sau khi đã nhập cả ảnh và số của bạn, hãy nhấn <strong class=\"text-ink font-medium\">Save</strong> (dấu số 4 ở bước 2). Bước Số An sinh Xã hội của bạn đã hoàn tất.",
+    "legend.tap": "Nhấn vào thẻ này để mở biểu mẫu An sinh Xã hội.",
+    "legend.upload": "Nhấn vào đây để tải lên một ảnh rõ nét của bạn — đây là ảnh của bạn, không phải ảnh của một tài liệu.",
+    "legend.docnum": "Nhập Số An sinh Xã hội gồm 9 chữ số của bạn vào đây.",
+    "legend.save": "Nhấn Save khi mọi thông tin đều chính xác.",
+    "tips.title": "Trước khi lưu",
+    "tips.item1": "Sử dụng ảnh rõ nét và mới chụp của bạn — ánh sáng tốt, không đeo kính râm hoặc đội mũ và toàn bộ khuôn mặt phải được nhìn thấy rõ ràng.",
+    "tips.item2": "Kiểm tra lại Số An sinh Xã hội gồm 9 chữ số trước khi lưu — số này phải được nhập chính xác để các biểu mẫu thuế của bạn có thể được xử lý.",
+    "tips.item3": "Số An sinh Xã hội của bạn là thông tin cá nhân nhạy cảm — chỉ nhập số này khi sử dụng kết nối riêng tư và an toàn.",
+    "footer.help": "Vẫn gặp khó khăn? Hãy liên hệ bộ phận hỗ trợ từ trong ứng dụng để được trợ giúp thêm."
+  }
+}

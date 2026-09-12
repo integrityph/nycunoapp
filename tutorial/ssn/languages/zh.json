@@ -1,0 +1,27 @@
+{
+  "zh": {
+    "meta.title": "社会安全号码上传指南",
+    "header.breadcrumb": "教程 / 社会安全号码",
+    "page.eyebrow": "注册指南",
+    "page.title": "如何上传您的社会安全号码",
+    "page.intro": "在应用中的社会安全号码步骤遇到问题了吗？请按照以下步骤操作 — 截图中的每个编号标记都会准确告诉您需要点击或填写的位置。",
+    "step1.title": "进入 Document（文件）部分",
+    "step1.body": "在注册应用中，打开 <strong class=\"text-ink font-medium\">Document</strong> 部分。您会看到一个标有 <strong class=\"text-ink font-medium\">Social Security...</strong> 的卡片。",
+    "step2.title": "点击 Social Security 并填写信息",
+    "step2.body": "点击 <strong class=\"text-ink font-medium\">Social Security</strong> 卡片以打开表单，然后按照下面的编号标记依次操作。",
+    "step3.title": "查找您的社会安全号码",
+    "step3.body": "不知道在哪里查找？您的社会安全号码印在您的社会安全卡上，如下图所示。标记 <strong class=\"text-ink font-medium\">3</strong> 与步骤 2 表单中的相同号码相对应。",
+    "step3.caption": "社会安全卡示例 — 9 位数字的号码位于卡片上方附近",
+    "step4.title": "保存",
+    "step4.body": "输入照片和号码后，点击 <strong class=\"text-ink font-medium\">Save</strong>（步骤 2 中的标记 4）。您的社会安全号码步骤现已完成。",
+    "legend.tap": "点击此卡片以打开社会安全号码表单。",
+    "legend.upload": "点击此处上传一张清晰的本人照片 — 这是您的个人照片，而不是证件照片。",
+    "legend.docnum": "在此输入您的 9 位社会安全号码。",
+    "legend.save": "确认所有信息正确后，点击 Save。",
+    "tips.title": "保存之前",
+    "tips.item1": "请使用一张清晰、近期的本人照片 — 光线充足，不戴太阳镜或帽子，并确保您的脸部完全清晰可见。",
+    "tips.item2": "保存前请仔细核对您的 9 位社会安全号码 — 只有正确填写，您的税务表格才能顺利处理。",
+    "tips.item3": "您的社会安全号码属于敏感的个人信息 — 请仅在私人且安全的网络连接下输入。",
+    "footer.help": "仍然遇到问题？请通过应用内的支持渠道联系客户支持，以获得进一步帮助。"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": {
+    "meta.title": "Panduan Mengunggah Nomor Jaminan Sosial",
+    "header.breadcrumb": "Tutorial / Nomor Jaminan Sosial",
+    "page.eyebrow": "Panduan pendaftaran",
+    "page.title": "Cara mengunggah Nomor Jaminan Sosial Anda",
+    "page.intro": "Mengalami kesulitan dengan langkah Nomor Jaminan Sosial di aplikasi? Ikuti langkah-langkah di bawah ini — setiap penanda bernomor pada tangkapan layar menunjukkan dengan tepat apa yang harus Anda ketuk atau isi.",
+    "step1.title": "Buka bagian Document",
+    "step1.body": "Di aplikasi pendaftaran, buka bagian <strong class=\"text-ink font-medium\">Document</strong>. Anda akan melihat kartu berlabel <strong class=\"text-ink font-medium\">Social Security...</strong>",
+    "step2.title": "Ketuk Social Security dan isi detailnya",
+    "step2.body": "Ketuk kartu <strong class=\"text-ink font-medium\">Social Security</strong> untuk membuka formulir, lalu ikuti penanda bernomor di bawah ini secara berurutan.",
+    "step3.title": "Temukan Nomor Jaminan Sosial Anda",
+    "step3.body": "Tidak yakin di mana mencarinya? Nomor Anda tercetak pada kartu Jaminan Sosial Anda, seperti yang ditunjukkan di bawah ini. Penanda <strong class=\"text-ink font-medium\">3</strong> sesuai dengan nomor yang sama pada formulir di langkah 2.",
+    "step3.caption": "Contoh kartu Jaminan Sosial — nomor 9 digit berada di dekat bagian atas",
+    "step4.title": "Simpan",
+    "step4.body": "Setelah foto dan nomor Anda dimasukkan, ketuk <strong class=\"text-ink font-medium\">Save</strong> (penanda 4 pada langkah 2). Langkah Jaminan Sosial Anda sekarang telah selesai.",
+    "legend.tap": "Ketuk kartu ini untuk membuka formulir Jaminan Sosial.",
+    "legend.upload": "Ketuk di sini untuk mengunggah foto diri Anda yang jelas — ini adalah foto Anda, bukan foto dokumen.",
+    "legend.docnum": "Masukkan Nomor Jaminan Sosial 9 digit Anda di sini.",
+    "legend.save": "Ketuk Save setelah semuanya terlihat benar.",
+    "tips.title": "Sebelum menyimpan",
+    "tips.item1": "Gunakan foto diri Anda yang jelas dan terbaru — dengan pencahayaan yang baik, tanpa kacamata hitam atau topi, dan wajah Anda terlihat sepenuhnya.",
+    "tips.item2": "Periksa kembali Nomor Jaminan Sosial 9 digit Anda sebelum menyimpan — nomor tersebut harus dimasukkan dengan benar agar formulir pajak Anda dapat diproses.",
+    "tips.item3": "Nomor Jaminan Sosial Anda adalah informasi pribadi yang sensitif — masukkan hanya melalui koneksi jaringan yang pribadi dan aman.",
+    "footer.help": "Masih mengalami kesulitan? Hubungi dukungan melalui aplikasi untuk mendapatkan bantuan lebih lanjut."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "de": {
+    "meta.title": "Anleitung zum Hochladen der Sozialversicherungsnummer",
+    "header.breadcrumb": "Anleitungen / Sozialversicherungsnummer",
+    "page.eyebrow": "Registrierungsanleitung",
+    "page.title": "So laden Sie Ihre Sozialversicherungsnummer hoch",
+    "page.intro": "Haben Sie Probleme mit dem Schritt zur Sozialversicherungsnummer in der App? Befolgen Sie die folgenden Schritte — jede nummerierte Markierung auf den Screenshots zeigt genau, worauf Sie tippen oder was Sie eingeben müssen.",
+    "step1.title": "Gehen Sie zum Bereich Document",
+    "step1.body": "Öffnen Sie in der Registrierungs-App den Bereich <strong class=\"text-ink font-medium\">Document</strong>. Dort sehen Sie eine Karte mit der Bezeichnung <strong class=\"text-ink font-medium\">Social Security...</strong>.",
+    "step2.title": "Tippen Sie auf Social Security und geben Sie die Daten ein",
+    "step2.body": "Tippen Sie auf die Karte <strong class=\"text-ink font-medium\">Social Security</strong>, um das Formular zu öffnen, und folgen Sie anschließend den nummerierten Markierungen unten in der angegebenen Reihenfolge.",
+    "step3.title": "Finden Sie Ihre Sozialversicherungsnummer",
+    "step3.body": "Sie wissen nicht, wo Sie danach suchen sollen? Ihre Nummer ist auf Ihrer Sozialversicherungskarte aufgedruckt, wie unten dargestellt. Die Markierung <strong class=\"text-ink font-medium\">3</strong> entspricht derselben Nummer aus dem Formular in Schritt 2.",
+    "step3.caption": "Beispiel einer Sozialversicherungskarte — die 9-stellige Nummer befindet sich im oberen Bereich",
+    "step4.title": "Speichern",
+    "step4.body": "Sobald Sie sowohl Ihr Foto als auch Ihre Nummer eingegeben haben, tippen Sie auf <strong class=\"text-ink font-medium\">Save</strong> (Markierung 4 in Schritt 2). Damit ist der Schritt zur Sozialversicherungsnummer abgeschlossen.",
+    "legend.tap": "Tippen Sie auf diese Karte, um das Formular für die Sozialversicherungsnummer zu öffnen.",
+    "legend.upload": "Tippen Sie hier, um ein klares Foto von sich hochzuladen — es handelt sich um ein Foto von Ihnen, nicht um ein Dokumentenfoto.",
+    "legend.docnum": "Geben Sie hier Ihre 9-stellige Sozialversicherungsnummer ein.",
+    "legend.save": "Tippen Sie auf Save, sobald alles korrekt aussieht.",
+    "tips.title": "Vor dem Speichern",
+    "tips.item1": "Verwenden Sie ein klares, aktuelles Foto von sich — bei guter Beleuchtung, ohne Sonnenbrille oder Hut und mit vollständig sichtbarem Gesicht.",
+    "tips.item2": "Überprüfen Sie Ihre 9-stellige Sozialversicherungsnummer vor dem Speichern noch einmal — sie muss korrekt eingegeben werden, damit Ihre Steuerformulare verarbeitet werden können.",
+    "tips.item3": "Ihre Sozialversicherungsnummer ist eine sensible persönliche Information — geben Sie sie nur über eine private und sichere Netzwerkverbindung ein.",
+    "footer.help": "Haben Sie weiterhin Probleme? Wenden Sie sich über die App an den Support, um weitere Hilfe zu erhalten."
+  }
+}

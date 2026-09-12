@@ -1,0 +1,27 @@
+{
+  "es": {
+    "meta.title": "Guía para subir el número de Seguro Social",
+    "header.breadcrumb": "Tutoriales / Número de Seguro Social",
+    "page.eyebrow": "Guía de registro",
+    "page.title": "Cómo subir su número de Seguro Social",
+    "page.intro": "¿Tiene problemas con el paso del Seguro Social en la aplicación? Siga los pasos que se indican a continuación — cada marcador numerado en las capturas de pantalla muestra exactamente dónde debe tocar o qué debe completar.",
+    "step1.title": "Vaya a la sección Document",
+    "step1.body": "En la aplicación de registro, abra la sección <strong class=\"text-ink font-medium\">Document</strong>. Verá una tarjeta con la etiqueta <strong class=\"text-ink font-medium\">Social Security...</strong>.",
+    "step2.title": "Toque Social Security y complete los datos",
+    "step2.body": "Toque la tarjeta <strong class=\"text-ink font-medium\">Social Security</strong> para abrir el formulario y, a continuación, siga los marcadores numerados que aparecen abajo en orden.",
+    "step3.title": "Encuentre su número de Seguro Social",
+    "step3.body": "¿No está seguro de dónde buscarlo? Su número está impreso en su tarjeta del Seguro Social, como se muestra a continuación. El marcador <strong class=\"text-ink font-medium\">3</strong> corresponde al mismo número que aparece en el formulario del paso 2.",
+    "step3.caption": "Ejemplo de una tarjeta del Seguro Social — el número de 9 dígitos se encuentra cerca de la parte superior",
+    "step4.title": "Guardar",
+    "step4.body": "Una vez que haya introducido su foto y su número, toque <strong class=\"text-ink font-medium\">Save</strong> (marcador 4 del paso 2). El paso del Seguro Social ya está completo.",
+    "legend.tap": "Toque esta tarjeta para abrir el formulario del Seguro Social.",
+    "legend.upload": "Toque aquí para subir una foto clara de usted — es una foto suya, no de un documento.",
+    "legend.docnum": "Escriba aquí su número de Seguro Social de 9 dígitos.",
+    "legend.save": "Toque Save cuando todo parezca correcto.",
+    "tips.title": "Antes de guardar",
+    "tips.item1": "Use una foto clara y reciente de usted — con buena iluminación, sin gafas de sol ni sombreros y con el rostro completamente visible.",
+    "tips.item2": "Compruebe nuevamente su número de Seguro Social de 9 dígitos antes de guardar — debe introducirse correctamente para que sus formularios de impuestos puedan procesarse.",
+    "tips.item3": "Su número de Seguro Social es información personal confidencial — introdúzcalo únicamente mediante una conexión privada y segura.",
+    "footer.help": "¿Sigue teniendo problemas? Póngase en contacto con el servicio de soporte desde la aplicación para obtener más ayuda."
+  }
+}

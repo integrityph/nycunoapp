@@ -1,0 +1,27 @@
+{
+  "sw": {
+    "meta.title": "Mwongozo wa Kupakia Nambari ya Usalama wa Jamii",
+    "header.breadcrumb": "Mafunzo / Nambari ya Usalama wa Jamii",
+    "page.eyebrow": "Mwongozo wa usajili",
+    "page.title": "Jinsi ya kupakia Nambari yako ya Usalama wa Jamii",
+    "page.intro": "Je, unapata shida na hatua ya Usalama wa Jamii kwenye programu? Fuata hatua zilizo hapa chini — kila alama yenye nambari kwenye picha za skrini inaonyesha hasa mahali pa kugusa au sehemu ya kujaza.",
+    "step1.title": "Nenda kwenye sehemu ya Document",
+    "step1.body": "Kwenye programu ya usajili, fungua sehemu ya <strong class=\"text-ink font-medium\">Document</strong>. Utaona kadi iliyoandikwa <strong class=\"text-ink font-medium\">Social Security...</strong>.",
+    "step2.title": "Gusa Social Security na ujaze maelezo",
+    "step2.body": "Gusa kadi ya <strong class=\"text-ink font-medium\">Social Security</strong> ili kufungua fomu, kisha fuata alama zenye nambari zilizo hapa chini kwa mpangilio.",
+    "step3.title": "Tafuta Nambari yako ya Usalama wa Jamii",
+    "step3.body": "Hujui pa kuitafuta? Nambari yako imeandikwa kwenye kadi yako ya Usalama wa Jamii, kama inavyoonyeshwa hapa chini. Alama <strong class=\"text-ink font-medium\">3</strong> inalingana na nambari hiyo hiyo iliyo kwenye fomu ya hatua ya 2.",
+    "step3.caption": "Mfano wa kadi ya Usalama wa Jamii — nambari yenye tarakimu 9 iko karibu na sehemu ya juu",
+    "step4.title": "Hifadhi",
+    "step4.body": "Baada ya kuweka picha na nambari yako, gusa <strong class=\"text-ink font-medium\">Save</strong> (alama 4 katika hatua ya 2). Hatua ya Usalama wa Jamii sasa imekamilika.",
+    "legend.tap": "Gusa kadi hii ili kufungua fomu ya Usalama wa Jamii.",
+    "legend.upload": "Gusa hapa ili kupakia picha yako iliyo wazi — hii ni picha yako, si picha ya hati.",
+    "legend.docnum": "Weka Nambari yako ya Usalama wa Jamii yenye tarakimu 9 hapa.",
+    "legend.save": "Gusa Save baada ya kuhakikisha kila kitu kiko sahihi.",
+    "tips.title": "Kabla ya kuhifadhi",
+    "tips.item1": "Tumia picha yako iliyo wazi na ya hivi karibuni — yenye mwanga mzuri, bila miwani ya jua au kofia, na uso wako ukiwa unaonekana kikamilifu.",
+    "tips.item2": "Kagua tena Nambari yako ya Usalama wa Jamii yenye tarakimu 9 kabla ya kuhifadhi — lazima iwe imeingizwa kwa usahihi ili fomu zako za kodi ziweze kuchakatwa.",
+    "tips.item3": "Nambari yako ya Usalama wa Jamii ni taarifa nyeti ya kibinafsi — iweke tu kupitia muunganisho wa mtandao wa faragha na salama.",
+    "footer.help": "Bado unapata shida? Wasiliana na usaidizi kupitia programu ili kupata msaada zaidi."
+  }
+}
